@@ -10,9 +10,9 @@
     "views": 12500,
     "uploadDate": "2024-03-15",
     "tags": [
-      "Đấu tranh giai cấp",
-      "Lý thuyết",
-      "Cơ bản"
+      "Hình Thái Kinh Tế-Xã Hội",
+      "Phát Triển Xã Hội",
+      "Triết Học Mác-Lênin"
     ],
     "relatedLessons": [
       "giai-cap",
@@ -30,9 +30,9 @@
     "views": 18200,
     "uploadDate": "2024-02-20",
     "tags": [
-      "Lịch sử",
-      "Cách mạng",
-      "Công nhân"
+      "Lực Lượng Sản Xuất",
+      "Quan Hệ Sản Xuất",
+      "Triết Học Mác-Lênin"
     ],
     "relatedLessons": [
       "dau-tranh-vo-san",
@@ -50,9 +50,9 @@
     "views": 15800,
     "uploadDate": "2024-04-10",
     "tags": [
-      "Xã hội hiện đại",
-      "Toàn cầu hóa",
-      "Phân tích"
+      "Cơ Sở Hạ Tầng",
+      "Kiến Trúc Thượng Tầng",
+      "Triết Học Mác-Lênin"
     ],
     "relatedLessons": [
       "ket-cau-xa-hoi-giai-cap",
@@ -70,9 +70,9 @@
     "views": 21500,
     "uploadDate": "2024-01-25",
     "tags": [
-      "Việt Nam",
-      "Thời kỳ quá độ",
-      "Chủ nghĩa xã hội"
+         "Lực Lượng Sản Xuất",
+      "Quan Hệ Sản Xuất",
+      "Cách mạng"
     ],
     "relatedLessons": [
       "thoi-ky-qua-do-viet-nam",
@@ -81,17 +81,17 @@
   },
   {
     "id": "video-5",
-    "slug": "vai-tro-giai-cap-vo-san",
-    "title": "Vai trò lịch sử của giai cấp vô sản",
-    "description": "Tìm hiểu về sứ mệnh lịch sử của giai cấp vô sản trong việc xóa bỏ chế độ bóc lột, xây dựng xã hội không giai cấp. Phân tích ba hình thức đấu tranh: kinh tế, chính trị và tư tưởng.",
-    "youtubeId": "-hr-F2GxvLs",
-    "thumbnail": "https://img.youtube.com/vi/-hr-F2GxvLs/maxresdefault.jpg",
+    "slug": "moi-quan-he-giua-luc-luong-san-xuat-va-quan-he-san-xuat",
+    "title": "Mối Quan Hệ Giữa Lực Lượng Sản Xuất Và Quan Hệ Sản Xuất",
+    "description": "mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất.",
+    "youtubeId": "OO-DUnhvuU8",
+    "thumbnail": "https://img.youtube.com/vi/OO-DUnhvuU8/maxresdefault.jpg",
     "duration": "20:15",
     "views": 17300,
     "uploadDate": "2024-05-05",
     "tags": [
-      "Giai cấp vô sản",
-      "Sứ mệnh",
+      "Lực Lượng Sản Xuất",
+      "Quan Hệ Sản Xuất",
       "Cách mạng"
     ],
     "relatedLessons": [
