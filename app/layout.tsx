@@ -27,7 +27,7 @@ const navLinks = [
   { href: "/lesson", label: "Bài học" },
   { href: "/quiz", label: "Quiz" },
   { href: "/flashcard", label: "Flashcard" },
-  { href: "/lien-minh-giai-cap", label: "CQ" },
+  { href: "/lien-minh-giai-cap", label: "HTKT-XH" },
   { href: "/video", label: "Video" },
 ];
 

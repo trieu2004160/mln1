@@ -2,95 +2,275 @@
   "multipleChoice": [
     {
       "id": "mc-1",
-      "question": "Theo Lênin, yếu tố nào làm các tập đoàn người trở thành giai cấp?",
+      "question": "Hình thái kinh tế – xã hội là gì?",
       "options": [
-        "Khác nhau về địa vị trong hệ thống sản xuất và quan hệ với tư liệu sản xuất",
-        "Khác nhau về dân số và khu vực cư trú",
-        "Khác nhau về trình độ học vấn",
-        "Khác nhau về tôn giáo"
+        "Một chế độ chính trị cụ thể",
+        "Một chỉnh thể xã hội cụ thể trong lịch sử",
+        "Một hình thức nhà nước",
+        "Một giai đoạn văn hóa"
       ],
-      "answer": 0,
-      "explanation": "Giai cấp khác nhau về địa vị kinh tế - xã hội, quan hệ với tư liệu sản xuất, vai trò tổ chức lao động và cách hưởng thụ sản phẩm."
+      "answer": 1,
+      "explanation": "Hình thái kinh tế – xã hội là một phạm trù cơ bản của chủ nghĩa duy vật lịch sử, chỉ một chỉnh thể xã hội cụ thể trong lịch sử với kiểu quan hệ sản xuất đặc trưng."
     },
     {
       "id": "mc-2",
-      "question": "Nguồn gốc sâu xa của sự xuất hiện giai cấp là gì?",
+      "question": "Ba yếu tố cơ bản cấu thành một hình thái kinh tế – xã hội là:",
       "options": [
-        "Chiến tranh giữa các bộ lạc",
-        "Sự phát triển lực lượng sản xuất tạo ra của dư",
-        "Quy định pháp luật phong kiến",
-        "Khác biệt về văn hóa vùng miền"
+        "Kinh tế – Chính trị – Văn hóa",
+        "Lực lượng sản xuất – Quan hệ sản xuất – Kiến trúc thượng tầng",
+        "Nhà nước – Pháp luật – Tư tưởng",
+        "Con người – Tự nhiên – Xã hội"
       ],
       "answer": 1,
-      "explanation": "Lực lượng sản xuất phát triển tạo của dư, mở khả năng chiếm đoạt lao động người khác."
+      "explanation": "Ba yếu tố cơ bản: Lực lượng sản xuất, Quan hệ sản xuất (cơ sở hạ tầng), và Kiến trúc thượng tầng."
     },
     {
       "id": "mc-3",
-      "question": "Đấu tranh giai cấp là tất yếu vì lý do nào?",
+      "question": "Lực lượng sản xuất là:",
       "options": [
-        "Khác biệt ngôn ngữ",
-        "Xung đột lợi ích căn bản không thể điều hòa giữa các giai cấp",
-        "Khí hậu khắc nghiệt",
-        "Sự khác nhau về dân tộc"
+        "Quan hệ giữa người với người",
+        "Sự kết hợp giữa người lao động và tư liệu sản xuất",
+        "Hệ thống tư tưởng xã hội",
+        "Bộ máy nhà nước"
       ],
       "answer": 1,
-      "explanation": "Đấu tranh giai cấp bắt nguồn từ đối lập lợi ích kinh tế căn bản giữa giai cấp thống trị và bị trị."
+      "explanation": "Lực lượng sản xuất là sự kết hợp giữa người lao động với tư liệu sản xuất trong quá trình sản xuất vật chất."
     },
     {
       "id": "mc-4",
-      "question": "Hình thức đấu tranh cao nhất của giai cấp vô sản trước khi giành chính quyền là gì?",
+      "question": "Trong lực lượng sản xuất, yếu tố giữ vai trò quyết định nhất là:",
       "options": [
-        "1. Đấu tranh kinh tế",
-        "Đấu tranh tư tưởng",
-        "Đấu tranh chính trị",
-        "Đấu tranh văn hóa"
+        "Máy móc",
+        "Tư liệu sản xuất",
+        "Người lao động",
+        "Khoa học – công nghệ"
       ],
       "answer": 2,
-      "explanation": "Đấu tranh chính trị nhằm lật đổ ách thống trị tư sản và giành chính quyền."
+      "explanation": "Người lao động là yếu tố quyết định nhất vì họ là người sáng tạo, vận hành và cải tiến công cụ lao động."
     },
     {
       "id": "mc-5",
-      "question": "Trong thời kỳ quá độ lên CNXH ở Việt Nam, nhiệm vụ nào sau đây là trọng tâm?",
+      "question": "Quan hệ sản xuất là:",
       "options": [
-        "Đóng cửa thị trường",
-        "Công nghiệp hóa, hiện đại hóa theo định hướng XHCN",
-        "Xóa bỏ kinh tế thị trường",
-        "Giảm vai trò của Đảng trong lãnh đạo"
+        "Quan hệ giữa con người với tự nhiên",
+        "Quan hệ kinh tế giữa người với người trong sản xuất",
+        "Quan hệ chính trị trong xã hội",
+        "Quan hệ văn hóa – tư tưởng"
       ],
       "answer": 1,
-      "explanation": "Công nghiệp hóa, hiện đại hóa định hướng XHCN là nhiệm vụ then chốt để xây dựng cơ sở vật chất cho CNXH."
+      "explanation": "Quan hệ sản xuất là quan hệ kinh tế giữa người với người trong quá trình sản xuất, phân phối và trao đổi sản phẩm."
+    },
+    {
+      "id": "mc-6",
+      "question": "Quan hệ sản xuất gồm mấy mặt cơ bản?",
+      "options": [
+        "1 mặt",
+        "2 mặt",
+        "3 mặt",
+        "4 mặt"
+      ],
+      "answer": 2,
+      "explanation": "Quan hệ sản xuất gồm 3 mặt: Quan hệ sở hữu tư liệu sản xuất, Quan hệ tổ chức quản lý, Quan hệ phân phối sản phẩm."
+    },
+    {
+      "id": "mc-7",
+      "question": "Mặt quan trọng nhất trong quan hệ sản xuất là:",
+      "options": [
+        "Quan hệ tổ chức quản lý",
+        "Quan hệ phân phối",
+        "Quan hệ sở hữu tư liệu sản xuất",
+        "Quan hệ lao động"
+      ],
+      "answer": 2,
+      "explanation": "Quan hệ sở hữu tư liệu sản xuất là quan trọng nhất vì nó quyết định địa vị các giai cấp trong sản xuất và phân phối."
+    },
+    {
+      "id": "mc-8",
+      "question": "Kiến trúc thượng tầng là:",
+      "options": [
+        "Toàn bộ hệ thống tư tưởng và thiết chế xã hội",
+        "Nền kinh tế của xã hội",
+        "Lực lượng sản xuất",
+        "Quan hệ sản xuất"
+      ],
+      "answer": 0,
+      "explanation": "Kiến trúc thượng tầng là toàn bộ các quan điểm tư tưởng (chính trị, pháp luật, triết học, đạo đức...) và các thiết chế xã hội tương ứng."
+    },
+    {
+      "id": "mc-9",
+      "question": "Thiết chế quan trọng nhất của kiến trúc thượng tầng là:",
+      "options": [
+        "Giáo hội",
+        "Đảng phái chính trị",
+        "Nhà nước",
+        "Trường học"
+      ],
+      "answer": 2,
+      "explanation": "Nhà nước là thiết chế quan trọng nhất vì là công cụ bạo lực để duy trì trật tự xã hội và bảo vệ lợi ích giai cấp thống trị."
+    },
+    {
+      "id": "mc-10",
+      "question": "Cơ sở hạ tầng của xã hội là:",
+      "options": [
+        "Lực lượng sản xuất",
+        "Kiến trúc thượng tầng",
+        "Tổng thể các quan hệ sản xuất",
+        "Hệ thống tư tưởng"
+      ],
+      "answer": 2,
+      "explanation": "Cơ sở hạ tầng là tổng thể các quan hệ sản xuất hợp thành cơ cấu kinh tế của một xã hội nhất định."
+    },
+    {
+      "id": "mc-11",
+      "question": "Mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất là:",
+      "options": [
+        "Không liên quan",
+        "Quan hệ sản xuất quyết định lực lượng sản xuất",
+        "Lực lượng sản xuất quyết định quan hệ sản xuất",
+        "Hai yếu tố hoàn toàn tách rời"
+      ],
+      "answer": 2,
+      "explanation": "Lực lượng sản xuất quyết định quan hệ sản xuất. Khi LLSX phát triển, QHSX phải thay đổi cho phù hợp."
+    },
+    {
+      "id": "mc-12",
+      "question": "Kiến trúc thượng tầng có vai trò gì đối với cơ sở hạ tầng?",
+      "options": [
+        "Quyết định hoàn toàn",
+        "Không có tác động",
+        "Tác động trở lại",
+        "Thay thế cơ sở hạ tầng"
+      ],
+      "answer": 2,
+      "explanation": "Kiến trúc thượng tầng tác động trở lại cơ sở hạ tầng, có thể thúc đẩy hoặc kìm hãm sự phát triển của CSHT."
+    },
+    {
+      "id": "mc-13",
+      "question": "Hình thái kinh tế – xã hội có đối kháng giai cấp là:",
+      "options": [
+        "Cộng sản nguyên thủy",
+        "Tư bản chủ nghĩa",
+        "Xã hội chủ nghĩa",
+        "Cộng sản chủ nghĩa"
+      ],
+      "answer": 1,
+      "explanation": "Tư bản chủ nghĩa là hình thái có đối kháng giai cấp (tư sản – vô sản). CSNT, XHCN, CSCN không có đối kháng giai cấp."
+    },
+    {
+      "id": "mc-14",
+      "question": "Các hình thái kinh tế – xã hội trong lịch sử theo Mác – Lênin gồm:",
+      "options": [
+        "3 hình thái",
+        "4 hình thái",
+        "5 hình thái",
+        "6 hình thái"
+      ],
+      "answer": 2,
+      "explanation": "5 hình thái: Cộng sản nguyên thủy – Chiếm hữu nô lệ – Phong kiến – Tư bản chủ nghĩa – Cộng sản chủ nghĩa (giai đoạn đầu là XHCN)."
+    },
+    {
+      "id": "mc-15",
+      "question": "Bản chất bóc lột trong CNTB thể hiện ở:",
+      "options": [
+        "Công nhân không được trả lương",
+        "Chủ chiếm đoạt giá trị thặng dư",
+        "Công nhân làm việc tự do",
+        "Có cạnh tranh thị trường"
+      ],
+      "answer": 1,
+      "explanation": "Bản chất bóc lột CNTB là chủ tư bản chiếm đoạt giá trị thặng dư do công nhân tạo ra nhưng không được trả công."
+    },
+    {
+      "id": "mc-16",
+      "question": "Giá trị thặng dư là:",
+      "options": [
+        "Phần lương công nhân nhận được",
+        "Phần giá trị vượt quá tiền lương",
+        "Toàn bộ giá trị sản phẩm",
+        "Thuế nhà nước thu"
+      ],
+      "answer": 1,
+      "explanation": "Giá trị thặng dư là phần giá trị do lao động công nhân tạo ra vượt quá tiền lương, bị nhà tư bản chiếm đoạt."
+    },
+    {
+      "id": "mc-17",
+      "question": "Quy luật cơ bản chi phối sự thay thế các hình thái kinh tế – xã hội là:",
+      "options": [
+        "Quy luật cung – cầu",
+        "Quy luật cạnh tranh",
+        "Quy luật quan hệ sản xuất phù hợp với trình độ lực lượng sản xuất",
+        "Quy luật giá trị"
+      ],
+      "answer": 2,
+      "explanation": "Quy luật QHSX phù hợp với trình độ LLSX là quy luật cơ bản chi phối sự vận động, phát triển của các HTKT-XH."
+    },
+    {
+      "id": "mc-18",
+      "question": "Khoa học – công nghệ trong xã hội hiện đại được xem là:",
+      "options": [
+        "Yếu tố phụ của lực lượng sản xuất",
+        "Lực lượng sản xuất trực tiếp",
+        "Bộ phận của kiến trúc thượng tầng",
+        "Quan hệ sản xuất"
+      ],
+      "answer": 1,
+      "explanation": "Trong xã hội hiện đại, khoa học – công nghệ đã trở thành lực lượng sản xuất trực tiếp, thúc đẩy LLSX phát triển mạnh mẽ."
+    },
+    {
+      "id": "mc-19",
+      "question": "Nguyên nhân sâu xa dẫn đến sự thay thế các hình thái kinh tế – xã hội là:",
+      "options": [
+        "Chiến tranh",
+        "Ý muốn con người",
+        "Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất",
+        "Biến đổi khí hậu"
+      ],
+      "answer": 2,
+      "explanation": "Mâu thuẫn giữa LLSX (phát triển) và QHSX (lỗi thời) là nguyên nhân sâu xa dẫn đến cách mạng xã hội và thay thế HTKT-XH."
+    },
+    {
+      "id": "mc-20",
+      "question": "Việt Nam lựa chọn con đường quá độ lên CNXH vì:",
+      "options": [
+        "Bị ép buộc",
+        "Phù hợp quy luật lịch sử và điều kiện cụ thể của Việt Nam",
+        "Do kinh tế yếu kém",
+        "Do ảnh hưởng nước ngoài"
+      ],
+      "answer": 1,
+      "explanation": "Việt Nam lựa chọn con đường quá độ lên CNXH vì phù hợp với quy luật phát triển lịch sử và điều kiện cụ thể của đất nước."
     }
   ],
   "matchPairs": [
     {
       "id": "mp-1",
-      "prompt": "Ghép khái niệm với mô tả",
+      "prompt": "Ghép khái niệm với định nghĩa",
       "left": [
         {
           "id": "l1",
-          "text": "Giai cấp cơ bản"
+          "text": "Lực lượng sản xuất"
         },
         {
           "id": "l2",
-          "text": "Giai cấp không cơ bản"
+          "text": "Quan hệ sản xuất"
         },
         {
           "id": "l3",
-          "text": "Thực chất quan hệ giai cấp"
+          "text": "Kiến trúc thượng tầng"
         }
       ],
       "right": [
         {
           "id": "r1",
-          "text": "Gắn với phương thức sản xuất thống trị"
+          "text": "Sự kết hợp giữa người lao động và tư liệu sản xuất"
         },
         {
           "id": "r2",
-          "text": "Gắn với phương thức sản xuất tàn dư hoặc mầm mống"
+          "text": "Quan hệ kinh tế giữa người với người trong sản xuất"
         },
         {
           "id": "r3",
-          "text": "Quan hệ bóc lột và bị bóc lột"
+          "text": "Toàn bộ tư tưởng và thiết chế xã hội"
         }
       ],
       "answer": [
@@ -110,25 +290,33 @@
     },
     {
       "id": "mp-2",
-      "prompt": "Ghép giai đoạn đấu tranh vô sản với đặc trưng",
+      "prompt": "Ghép khái niệm với thành phần cấu tạo",
       "left": [
         {
           "id": "l4",
-          "text": "Trước khi giành chính quyền"
+          "text": "Lực lượng sản xuất"
         },
         {
           "id": "l5",
-          "text": "Sau khi giành chính quyền"
+          "text": "Quan hệ sản xuất"
+        },
+        {
+          "id": "l6",
+          "text": "Kiến trúc thượng tầng"
         }
       ],
       "right": [
         {
           "id": "r4",
-          "text": "Đấu tranh kinh tế, chính trị, tư tưởng"
+          "text": "Người lao động, công cụ lao động, đối tượng lao động"
         },
         {
           "id": "r5",
-          "text": "Bảo vệ thành quả, cải tạo xã hội cũ, xây dựng xã hội mới"
+          "text": "Sở hữu TLSX, tổ chức quản lý, phân phối sản phẩm"
+        },
+        {
+          "id": "r6",
+          "text": "Nhà nước, pháp luật, đảng phái, tôn giáo, văn hóa"
         }
       ],
       "answer": [
@@ -139,6 +327,160 @@
         [
           "l5",
           "r5"
+        ],
+        [
+          "l6",
+          "r6"
+        ]
+      ]
+    },
+    {
+      "id": "mp-3",
+      "prompt": "Ghép khái niệm với vai trò",
+      "left": [
+        {
+          "id": "l7",
+          "text": "Lực lượng sản xuất"
+        },
+        {
+          "id": "l8",
+          "text": "Quan hệ sản xuất"
+        },
+        {
+          "id": "l9",
+          "text": "Kiến trúc thượng tầng"
+        }
+      ],
+      "right": [
+        {
+          "id": "r7",
+          "text": "Quyết định sự phát triển của xã hội"
+        },
+        {
+          "id": "r8",
+          "text": "Tạo thành cơ sở hạ tầng của xã hội"
+        },
+        {
+          "id": "r9",
+          "text": "Bảo vệ và phục vụ cơ sở hạ tầng"
+        }
+      ],
+      "answer": [
+        [
+          "l7",
+          "r7"
+        ],
+        [
+          "l8",
+          "r8"
+        ],
+        [
+          "l9",
+          "r9"
+        ]
+      ]
+    },
+    {
+      "id": "mp-4",
+      "prompt": "Ghép hình thái KT-XH với đặc trưng chính",
+      "left": [
+        {
+          "id": "l10",
+          "text": "Cộng sản nguyên thủy"
+        },
+        {
+          "id": "l11",
+          "text": "Chiếm hữu nô lệ"
+        },
+        {
+          "id": "l12",
+          "text": "Phong kiến"
+        },
+        {
+          "id": "l13",
+          "text": "Tư bản chủ nghĩa"
+        }
+      ],
+      "right": [
+        {
+          "id": "r10",
+          "text": "Sở hữu chung, không có giai cấp"
+        },
+        {
+          "id": "r11",
+          "text": "Chủ nô sở hữu cả nô lệ như tài sản"
+        },
+        {
+          "id": "r12",
+          "text": "Địa chủ sở hữu ruộng đất, bóc lột địa tô"
+        },
+        {
+          "id": "r13",
+          "text": "Tư sản bóc lột giá trị thặng dư"
+        }
+      ],
+      "answer": [
+        [
+          "l10",
+          "r10"
+        ],
+        [
+          "l11",
+          "r11"
+        ],
+        [
+          "l12",
+          "r12"
+        ],
+        [
+          "l13",
+          "r13"
+        ]
+      ]
+    },
+    {
+      "id": "mp-5",
+      "prompt": "Ghép quy luật với nội dung",
+      "left": [
+        {
+          "id": "l14",
+          "text": "LLSX quyết định QHSX"
+        },
+        {
+          "id": "l15",
+          "text": "CSHT quyết định KTTT"
+        },
+        {
+          "id": "l16",
+          "text": "KTTT tác động ngược CSHT"
+        }
+      ],
+      "right": [
+        {
+          "id": "r14",
+          "text": "Khi LLSX phát triển, QHSX phải thay đổi cho phù hợp"
+        },
+        {
+          "id": "r15",
+          "text": "Tính chất CSHT quyết định tính chất KTTT"
+        },
+        {
+          "id": "r16",
+          "text": "Có thể thúc đẩy hoặc kìm hãm sự phát triển"
+        }
+      ],
+      "answer": [
+        [
+          "l14",
+          "r14"
+        ],
+        [
+          "l15",
+          "r15"
+        ],
+        [
+          "l16",
+          "r16"
         ]
       ]
     }
@@ -146,28 +488,53 @@
   "fillBlank": [
     {
       "id": "fb-1",
-      "question": "Theo Lênin, giai cấp là những tập đoàn người khác nhau về địa vị trong hệ thống ________ xã hội nhất định.",
-      "answer": "sản xuất"
+      "question": "Hình thái kinh tế – xã hội là một phạm trù cơ bản của chủ nghĩa duy vật __________.",
+      "answer": "lịch sử"
     },
     {
       "id": "fb-2",
-      "question": "Đấu tranh giai cấp là cuộc đấu tranh của các tập đoàn người to lớn có lợi ích ________ đối lập nhau.",
-      "answer": "căn bản"
+      "question": "Lực lượng sản xuất là sự kết hợp giữa người lao động và __________ sản xuất.",
+      "answer": "tư liệu"
     },
     {
       "id": "fb-3",
-      "question": "Nguồn gốc sâu xa của giai cấp: phát triển lực lượng sản xuất tạo ra ________ lao động.",
-      "answer": "của dư"
+      "question": "Quan hệ sở hữu __________ sản xuất là mặt quan trọng nhất của quan hệ sản xuất.",
+      "answer": "tư liệu"
     },
     {
       "id": "fb-4",
-      "question": "Hình thức đấu tranh cao nhất của giai cấp vô sản trước khi giành chính quyền: đấu tranh ________.",
-      "answer": "chính trị"
+      "question": "Tổng thể các quan hệ sản xuất tạo thành cơ sở __________ của xã hội.",
+      "answer": "hạ tầng"
     },
     {
       "id": "fb-5",
-      "question": "Trong thời kỳ quá độ, giai cấp vô sản phải đấu tranh chống chiến lược “________ hòa bình”.",
-      "answer": "diễn biến"
+      "question": "Theo Mác, lịch sử loài người trải qua __________ hình thái kinh tế – xã hội.",
+      "answer": "5"
+    },
+    {
+      "id": "fb-6",
+      "question": "Cơ sở hạ tầng quyết định __________ thượng tầng.",
+      "answer": "kiến trúc"
+    },
+    {
+      "id": "fb-7",
+      "question": "Kiến trúc thượng tầng bao gồm hệ tư tưởng và các __________ xã hội tương ứng.",
+      "answer": "thiết chế"
+    },
+    {
+      "id": "fb-8",
+      "question": "Quan hệ sản xuất phải phù hợp với trình độ phát triển của __________ sản xuất.",
+      "answer": "lực lượng"
+    },
+    {
+      "id": "fb-9",
+      "question": "Sự thay thế các hình thái kinh tế – xã hội diễn ra theo quy luật __________.",
+      "answer": "khách quan"
+    },
+    {
+      "id": "fb-10",
+      "question": "Mâu thuẫn cơ bản của xã hội là mâu thuẫn giữa lực lượng sản xuất và __________ sản xuất.",
+      "answer": "quan hệ"
     }
   ],
   "miniQuiz": {
