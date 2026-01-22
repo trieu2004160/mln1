@@ -36,13 +36,12 @@ function LessonMenu({ current }: { current: string }) {
                 </div>
                 <div className="muted">
                   <span
-                    className={`status-dot ${
-                      item.status === "done"
-                        ? "status-done"
-                        : item.status === "in-progress"
+                    className={`status-dot ${item.status === "done"
+                      ? "status-done"
+                      : item.status === "in-progress"
                         ? "status-progress"
                         : "status-idle"
-                    }`}
+                      }`}
                   />{" "}
                   {status.label}
                 </div>
@@ -225,7 +224,7 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
                   <p
                     style={{
                       fontSize: "0.9rem",
-                      color: "#666",
+                      color: "var(--color-muted)",
                       marginTop: 8,
                       fontStyle: "italic",
                       textAlign: "center",

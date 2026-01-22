@@ -1,60 +1,65 @@
 [
   {
-    "id": "class-definition",
-    "slug": "giai-cap",
-    "title": "Giai cấp",
+    "id": "htktxh-overview",
+    "slug": "hinh-thai-kinh-te-xa-hoi",
+    "title": "Hình thái kinh tế – xã hội",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Định nghĩa giai cấp",
-        "body": "Trong tác phẩm 'Sáng kiến vĩ đại', V.I.Lênin định nghĩa:\n\n\"Người ta gọi giai cấp, những tập đoàn người to lớn gồm những người khác nhau về địa vị của họ trong một hệ sản xuất xã hội nhất định trong lịch sử, khác nhau về quan hệ của họ (thường thì các quan hệ này được pháp luật quy định và thừa nhận) đối với tư liệu sản xuất, về vai trò của họ trong tổ chức lao động xã hội và như vậy khác nhau về cách thức hưởng thụ và về phần của cải xã hội ít hoặc nhiều mà họ được hưởng. Giai cấp là những tập đoàn người, mà tập đoàn này có thể chiếm đoạt lao động của tập đoàn khác, do chỗ tập đoàn đó có địa vị khác nhau trong một chế độ kinh tế - xã hội nhất định\"",
+        "heading": "Định nghĩa hình thái kinh tế – xã hội",
+        "body": "Trong học thuyết Mác – Lênin, hình thái kinh tế – xã hội là một chỉnh thể xã hội cụ thể trong lịch sử, bao gồm:\n\n• Lực lượng sản xuất,\n• Quan hệ sản xuất,\n• Kiến trúc thượng tầng (nhà nước, pháp luật, tư tưởng, chính trị, đạo đức…),\n\nđược hình thành và vận động trong những điều kiện lịch sử nhất định.\n\nMỗi hình thái kinh tế – xã hội phản ánh một trình độ phát triển nhất định của xã hội loài người, trong đó các giai cấp giữ vị trí và vai trò khác nhau tùy theo quan hệ của họ đối với tư liệu sản xuất.",
         "highlight": true
       },
       {
-        "heading": "Ví dụ minh họa",
-        "body": "Hãy tưởng tượng một ngôi làng cổ:\n\n• Nhóm A: Có đất, có trâu bò, có kho lúa\n\n• Nhóm B: Không có đất, phải đi cày thuê cho nhóm A\n\nSau mùa vụ, nhóm A lấy 8 phần lúa, nhóm B chỉ được 2 phần.\n\n➡️ Nhìn vào bạn cũng phân biệt được 2 giai cấp: Giai cấp chủ đất và giai cấp người làm thuê.",
+        "heading": "Ví dụ minh họa về hình thái kinh tế – xã hội",
+        "body": "Hãy tưởng tượng một ngôi làng cổ trong xã hội phong kiến:\n\n• Nhóm A: Có ruộng đất, trâu bò, kho lúa → địa chủ\n• Nhóm B: Không có đất, phải đi cày thuê → nông dân lĩnh canh\n\nSau mùa vụ:\n• Nhóm A thu 8 phần lúa\n• Nhóm B chỉ được 2 phần lúa\n\n➡️ Đây là biểu hiện điển hình của hình thái kinh tế – xã hội phong kiến, trong đó:\n• Ruộng đất thuộc về địa chủ\n• Quan hệ sản xuất mang tính bóc lột\n• Xã hội phân hóa thành các giai cấp đối kháng",
         "hasImage": true,
         "image": "/Hình minh họa chủ đất – nông dân thời phong kiến.jpg",
         "imageCaption": "Hình minh họa chủ đất – nông dân thời phong kiến"
       },
       {
-        "heading": "Đặc trưng của giai cấp",
+        "heading": "Đặc trưng của một hình thái kinh tế – xã hội",
+        "body": "Một hình thái kinh tế – xã hội được nhận diện thông qua:",
         "bullets": [
-          "Khác nhau về địa vị kinh tế – xã hội",
-          "Khác nhau về quan hệ đối với tư liệu sản xuất",
-          "Khác nhau về vai trò trong tổ chức lao động xã hội",
-          "Khác nhau về cách thức phân phối sản phẩm"
+          "Trình độ phát triển của lực lượng sản xuất",
+          "Kiểu quan hệ sản xuất giữ vai trò thống trị",
+          "Sự phân chia giai cấp và địa vị kinh tế – xã hội khác nhau",
+          "Cách thức tổ chức lao động và phân phối sản phẩm",
+          "Hệ thống chính trị – pháp luật – tư tưởng tương ứng"
         ]
       },
       {
-        "heading": "Ví dụ minh họa",
-        "body": "Trong một nhà máy:\n\n• Chủ nhà máy → sở hữu máy móc (tư liệu sản xuất)\n\n• Quản đốc → tổ chức lao động\n\n• Công nhân → trực tiếp sản xuất\n\nMỗi người nhận phần thu nhập khác nhau → biểu hiện sự phân tầng giai cấp.",
+        "heading": "Ví dụ minh họa trong hình thái kinh tế – xã hội tư bản chủ nghĩa",
+        "body": "Trong một nhà máy hiện đại:\n\n• Chủ nhà máy → sở hữu máy móc, vốn (tư liệu sản xuất)\n• Quản đốc / quản lý → tổ chức, điều hành lao động\n• Công nhân → trực tiếp sản xuất ra sản phẩm\n\n➡️ Mỗi người có vai trò khác nhau trong quan hệ sản xuất, và thu nhập khác nhau, phản ánh sự phân tầng giai cấp đặc trưng của hình thái kinh tế – xã hội tư bản chủ nghĩa.",
         "hasImage": true,
         "image": "/Hình mô tả cấu trúc chủ – quản lý – công nhân.webp",
         "imageCaption": "Hình mô tả cấu trúc chủ – quản lý – công nhân"
       },
       {
-        "heading": "Thực chất của quan hệ giai cấp",
-        "body": "Là quan hệ bóc lột và bị bóc lột.",
+        "heading": "Thực chất của quan hệ trong hình thái kinh tế – xã hội có đối kháng giai cấp",
+        "body": "Trong các hình thái kinh tế – xã hội dựa trên chế độ tư hữu, quan hệ cơ bản là: **Quan hệ bóc lột và bị bóc lột**",
         "variant": "alert-red"
       },
       {
-        "heading": "Ví dụ minh họa cực đơn giản",
-        "body": "Một công nhân tạo ra 100 sản phẩm/ngày trị giá 1 triệu đồng.\nNhưng công nhân chỉ nhận 200.000đ, còn 800.000đ thuộc về chủ.\n\n➡️ Phần 800.000đ chính là giá trị lao động bị chiếm đoạt.",
+        "heading": "Ví dụ minh họa đơn giản",
+        "body": "Một công nhân tạo ra 100 sản phẩm/ngày, trị giá 1.000.000 đồng:\n\n• Công nhân chỉ nhận 200.000 đồng tiền lương\n• 800.000 đồng còn lại thuộc về chủ sở hữu tư liệu sản xuất\n\n➡️ Khoản 800.000 đồng đó chính là giá trị thặng dư, biểu hiện bản chất bóc lột trong hình thái kinh tế – xã hội tư bản chủ nghĩa.",
         "hasImage": true,
         "image": "/gia-tri-thang-du.webp",
         "imageCaption": "Đồ họa cơ bản về giá trị thặng dư"
       },
       {
-        "heading": "Ý nghĩa định nghĩa giai cấp của Lênin",
+        "heading": "Ý nghĩa của học thuyết hình thái kinh tế – xã hội",
         "bullets": [
-          "Giai cấp mang tính lịch sử, gắn với chế độ tư hữu",
-          "Giúp giai cấp vô sản hiểu đúng vai trò lịch sử của mình trong cuộc đấu tranh xóa bỏ giai cấp"
+          "Khẳng định sự phát triển của xã hội loài người là một quá trình lịch sử – tự nhiên",
+          "Chỉ ra rằng mỗi hình thái KT-XH đều có điểm khởi đầu, phát triển và bị thay thế",
+          "Giúp giai cấp công nhân và nhân dân lao động nhận thức đúng bản chất xã hội",
+          "Xác định vai trò lịch sử của mình trong đấu tranh cải tạo xã hội cũ",
+          "Xây dựng hình thái kinh tế – xã hội tiến bộ hơn"
         ]
       },
       {
-        "heading": "Ví dụ minh họa",
-        "body": "Nhờ hiểu rõ bản chất giai cấp, công nhân thế giới cuối thế kỷ 19 đã:\n\n• Thành lập công đoàn\n\n• Tổ chức đình công\n\n• Đấu tranh đòi giảm giờ làm",
+        "heading": "Ví dụ lịch sử",
+        "body": "Cuối thế kỷ XIX – đầu XX, nhờ nhận thức rõ bản chất của hình thái kinh tế – xã hội tư bản chủ nghĩa, công nhân thế giới đã:\n\n• Thành lập công đoàn\n• Tổ chức đình công\n• Đấu tranh đòi giảm giờ làm, tăng lương, cải thiện điều kiện lao động\n\n➡️ Đây là hệ quả trực tiếp của việc nhận thức khoa học về hình thái kinh tế – xã hội.",
         "hasImage": true,
         "image": "/giai cấp công nhân đấu tranh.jpg",
         "imageCaption": "Hình công nhân đấu tranh lịch sử"
@@ -62,381 +67,304 @@
     ]
   },
   {
-    "id": "class-origin",
-    "slug": "nguon-goc-giai-cap",
-    "title": "Nguồn gốc giai cấp",
+    "id": "htktxh-structure",
+    "slug": "cau-truc-hinh-thai-kinh-te-xa-hoi",
+    "title": "Cấu trúc của Hình thái kinh tế – xã hội",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Nguồn gốc của giai cấp",
-        "body": "Giai cấp xuất hiện do sự phát triển của lực lượng sản xuất và chế độ tư hữu về tư liệu sản xuất"
+        "heading": "1. Lực lượng sản xuất",
+        "body": "(Nền tảng vật chất – kỹ thuật của xã hội)\n\nLực lượng sản xuất là sự kết hợp giữa con người và tư liệu sản xuất trong quá trình sản xuất vật chất, thể hiện mối quan hệ giữa con người với tự nhiên.",
+        "highlight": true
       },
       {
-        "heading": "Nguồn gốc sâu xa",
-        "body": "Lực lượng sản xuất phát triển → xuất hiện của dư → Có nhóm giữ của dư → dẫn đến chiếm đoạt"
-      },
-      {
-        "heading": "Ví dụ",
-        "body": "Trong buổi đầu xã hội nguyên thủy, khi săn bắt hái lượm tiến bộ hơn (có công cụ tốt hơn), nhóm nắm công cụ mạnh hơn bắt đầu giữ nhiều sản phẩm hơn → mầm mống phân hóa.",
-        "hasImage": true,
-        "image": "/Công cụ đá → công cụ kim loại → năng suất tăng → của dư xuất hiện.jpg",
-        "imageCaption": "Công cụ đá → công cụ kim loại → năng suất tăng → của dư xuất hiện"
-      },
-      {
-        "heading": "Nguồn gốc trực tiếp",
-        "body": "Sự xuất hiện chế độ tư hữu về tư liệu sản xuất.",
-        "variant": "alert-red"
-      },
-      {
-        "heading": "Ví dụ",
-        "body": "Từ khi ruộng đất được coi là sở hữu cá nhân, những người sở hữu ruộng trở thành địa chủ, người không có ruộng thành tá điền.",
-        "hasImage": true,
-        "image": "/Hình ruộng đất tư hữu thời phong kiến.jpg",
-        "imageCaption": "Hình ruộng đất tư hữu thời phong kiến"
-      },
-      {
-        "heading": "Con đường hình thành giai cấp",
+        "heading": "Các yếu tố của lực lượng sản xuất",
         "bullets": [
-          "Quan chức lợi dụng quyền lực để chiếm đoạt tài sản",
-          "Tù binh chiến tranh trở thành nô lệ",
-          "Tầng lớp tự do trao đổi bị phân hóa giàu – nghèo"
+          "Người lao động: chủ thể sáng tạo, bao gồm thể chất, trí tuệ, kỹ năng và kinh nghiệm",
+          "Tư liệu lao động: công cụ lao động (thước đo trình độ chinh phục tự nhiên), phương tiện lao động",
+          "Đối tượng lao động: những bộ phận của tự nhiên được đưa vào sản xuất",
+          "Khoa học – công nghệ: ngày nay trở thành lực lượng sản xuất trực tiếp, giữ vai trò then chốt"
+        ],
+        "hasImage": true,
+        "image": "/luc-luong-san-xuat.jpg",
+        "imageCaption": "Hình ảnh minh họa lực lượng sản xuất"
+      },
+      {
+        "heading": "2. Quan hệ sản xuất",
+        "body": "(Bộ khung kinh tế – cơ sở hạ tầng của xã hội)\n\nQuan hệ sản xuất là các quan hệ kinh tế giữa người với người trong quá trình sản xuất vật chất. Tổng thể các quan hệ sản xuất hợp thành cơ sở hạ tầng của xã hội.",
+        "highlight": true
+      },
+      {
+        "heading": "Ba mặt của quan hệ sản xuất",
+        "bullets": [
+          "Quan hệ sở hữu đối với tư liệu sản xuất: quan hệ cơ bản, xuất phát, quyết định các quan hệ khác",
+          "Quan hệ tổ chức, quản lý sản xuất: phân công lao động, điều hành sản xuất",
+          "Quan hệ phân phối sản phẩm: cách thức phân chia của cải xã hội"
         ]
       },
       {
-        "heading": "Ví dụ minh họa",
-        "body": "Một bộ tộc thua trận → trở thành nô lệ của bộ tộc thắng → hình thành giai cấp chủ nô – nô lệ.",
+        "heading": "Lưu ý quan trọng",
+        "body": "Chế độ tư hữu là nguyên nhân sâu xa dẫn đến sự hình thành giai cấp, nhưng giai cấp không phải là yếu tố cấu thành trực tiếp của cấu trúc hình thái kinh tế – xã hội.",
+        "variant": "alert-red",
         "hasImage": true,
-        "image": "/no-le.jpg",
-        "imageCaption": "Hình nô lệ thời cổ đại"
+        "image": "/quan-he-san-xuat.jpg",
+        "imageCaption": "Hình ảnh minh họa quan hệ sản xuất"
       },
       {
-        "heading": "Điều kiện phân hóa giai cấp",
-        "body": "Chiến tranh, cướp bóc, bạo lực → làm tăng chênh lệch sở hữu và quyền lực."
+        "heading": "3. Kiến trúc thượng tầng",
+        "body": "(Bộ khung chính trị – xã hội)\n\nKiến trúc thượng tầng là toàn bộ hệ thống tư tưởng và các thiết chế xã hội được hình thành trên một cơ sở hạ tầng kinh tế nhất định, nhằm bảo vệ và củng cố cơ sở đó.",
+        "highlight": true
       },
       {
-        "heading": "Ví dụ minh họa",
-        "body": "Khi một thủ lĩnh chiếm đoạt chiến lợi phẩm sau mỗi cuộc chiến, tài sản tập trung vào một nhóm → hình thành tầng lớp thống trị.",
-        "hasImage": false,
-        "image": "",
-        "imageCaption": "Hình chiến tranh cổ đại và phân chia chiến lợi phẩm"
+        "heading": "Các bộ phận của kiến trúc thượng tầng",
+        "body": "Hệ thống tư tưởng: chính trị, pháp quyền, triết học, đạo đức, tôn giáo, nghệ thuật…",
+        "bullets": [
+          "Nhà nước (quan trọng nhất)",
+          "Đảng phái chính trị",
+          "Giáo hội",
+          "Các tổ chức chính trị – xã hội khác"
+        ]
+      },
+      {
+        "heading": "Mối quan hệ giữa KTTT và CSHT",
+        "body": "Kiến trúc thượng tầng tác động trở lại cơ sở hạ tầng, nhưng không quyết định cơ sở kinh tế. Cơ sở hạ tầng quyết định kiến trúc thượng tầng.",
+        "variant": "alert-red"
       }
     ]
   },
   {
-    "id": "social-structure",
-    "slug": "ket-cau-xa-hoi-giai-cap",
-    "title": "Kết cấu xã hội - giai cấp",
+    "id": "htktxh-history",
+    "slug": "cac-hinh-thai-kinh-te-xa-hoi-trong-lich-su",
+    "title": "Các hình thái kinh tế - xã hội trong lịch sử",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Khái niệm",
-        "body": "Là tổng thể các giai cấp và quan hệ giữa các giai cấp trong một giai đoạn lịch sử.",
+        "heading": "5 hình thái KT-XH trong lịch sử",
+        "body": "Theo C.Mác, lịch sử loài người đã và sẽ trải qua 5 hình thái kinh tế - xã hội kế tiếp nhau.",
         "highlight": true
       },
       {
-        "heading": "Thành phần của kết cấu xã hội – giai cấp",
-        "body": ""
-      },
-      {
-        "heading": "Giai cấp cơ bản",
-        "body": "→ Gắn với phương thức sản xuất thống trị\n→ Ví dụ: tư sản – vô sản trong CNTB"
-      },
-      {
-        "heading": "Giai cấp không cơ bản",
-        "body": "→ Tàn dư hoặc mầm mống\n→ Ví dụ: thợ thủ công trong xã hội tư bản"
-      },
-      {
-        "heading": "Tầng lớp xã hội",
-        "body": "→ Trí thức, tu hành, nhân sĩ…"
-      },
-      {
-        "heading": "Ví dụ minh họa",
-        "body": "Xã hội phong kiến Việt Nam:\n\n• Giai cấp cơ bản: địa chủ – nông dân\n\n• Không cơ bản: thợ thủ công\n\n• Tầng lớp: nho sĩ, sư thầy, quan lại",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Cấu trúc xã hội phong kiến"
-      },
-      {
-        "heading": "Đặc điểm của kết cấu xã hội – giai cấp",
+        "heading": "1. Cộng sản nguyên thủy",
+        "body": "Khoảng 2,5 triệu năm - 4000 TCN",
         "bullets": [
-          "Luôn vận động, biến đổi",
-          "Ngay cả trong một phương thức sản xuất, các giai cấp vẫn biến đổi theo thời gian"
+          "Công cụ lao động thô sơ (đá, gỗ, xương)",
+          "Sở hữu chung về tư liệu sản xuất",
+          "Lao động tập thể, phân phối bình đẳng",
+          "Chưa có giai cấp và nhà nước"
         ]
       },
       {
-        "heading": "Ví dụ minh họa",
-        "body": "Trong xã hội tư bản hiện đại:\nNgày xưa chỉ có tư sản – vô sản, nhưng nay có thêm:\n\n• Tầng lớp trung lưu\n\n• Kỹ sư – trí thức\n\n• Nhân viên văn phòng\n\n• Quản lý trung gian\n\n→ Cấu trúc phức tạp hơn nhiều.",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Sơ đồ phân tầng xã hội hiện đại"
+        "heading": "2. Chiếm hữu nô lệ",
+        "body": "Khoảng 4000 TCN - thế kỷ V",
+        "bullets": [
+          "Xuất hiện chế độ tư hữu về tư liệu sản xuất",
+          "Chủ nô sở hữu cả nô lệ như tài sản",
+          "Mâu thuẫn chủ nô - nô lệ",
+          "Nhà nước đầu tiên ra đời"
+        ]
+      },
+      {
+        "heading": "3. Phong kiến",
+        "body": "Thế kỷ V - thế kỷ XVIII",
+        "bullets": [
+          "Địa chủ sở hữu ruộng đất",
+          "Nông dân phụ thuộc vào ruộng đất",
+          "Quan hệ bóc lột địa tô",
+          "Nhà nước quân chủ chuyên chế"
+        ]
+      },
+      {
+        "heading": "4. Tư bản chủ nghĩa",
+        "body": "Thế kỷ XVIII - nay",
+        "bullets": [
+          "Tư sản sở hữu tư liệu sản xuất",
+          "Công nhân bán sức lao động",
+          "Bóc lột giá trị thặng dư",
+          "Dân chủ tư sản, nhà nước pháp quyền"
+        ]
+      },
+      {
+        "heading": "5. Cộng sản chủ nghĩa",
+        "body": "Tương lai (giai đoạn đầu là XHCN)",
+        "bullets": [
+          "Sở hữu công cộng về tư liệu sản xuất",
+          "Xóa bỏ giai cấp và bóc lột",
+          "Phân phối theo lao động (XHCN) → theo nhu cầu (CSCN)",
+          "Nhà nước tiêu vong dần"
+        ]
       }
     ]
   },
   {
-    "id": "class-struggle",
-    "slug": "dau-tranh-giai-cap",
-    "title": "Đấu tranh giai cấp",
+    "id": "htktxh-law",
+    "slug": "quy-luat-van-dong-thay-the",
+    "title": "Quy luật vận động và thay thế các hình thái KT-XH",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Tính tất yếu và thực chất của đấu tranh giai cấp",
-        "body": "Đấu tranh giai cấp là hiện tượng tất yếu trong xã hội có giai cấp đối lập."
-      },
-      {
-        "heading": "Định nghĩa đấu tranh giai cấp",
-        "body": "Đấu tranh giai cấp là cuộc đấu tranh của các tập đoàn người to lớn có lợi ích căn bản đối lập nhau trong một phương thức sản xuất xã hội nhất định.",
+        "heading": "Quy luật cơ bản",
+        "body": "Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật cơ bản chi phối sự vận động, phát triển và thay thế các hình thái kinh tế - xã hội.",
         "highlight": true
       },
       {
-        "heading": "Tính tất yếu của đấu tranh giai cấp",
-        "body": "Đấu tranh giai cấp là tất yếu vì những lý do:",
+        "heading": "Tính khách quan của sự thay thế",
+        "body": "Sự thay thế các hình thái KT-XH là quá trình lịch sử - tự nhiên, không phụ thuộc vào ý muốn chủ quan của con người.",
         "bullets": [
-          "Lợi ích kinh tế đối lập giữa giai cấp thống trị và giai cấp bị trị không thể điều hòa được.",
-          "Nguồn gốc từ phương thức sản xuất: khi lực lượng sản xuất phát triển, quan hệ sản xuất cũ trở nên kìm hãm → mâu thuẫn bùng nổ.",
-          "Đối kháng lợi ích cơ bản giữa người bị bóc lột và kẻ bóc lột buộc đấu tranh phải xảy ra."
+          "Do mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất",
+          "Mâu thuẫn giữa cơ sở hạ tầng và kiến trúc thượng tầng",
+          "Cách mạng xã hội là động lực thay đổi"
         ]
       },
       {
-        "heading": "Ví dụ thực tế: Cách mạng Pháp 1789",
-        "body": "Đẳng cấp Thứ Ba chiếm 97% dân số, nhưng phải nộp gần 100% thuế. Tăng lữ + Quý tộc (3%) gần như không phải đóng thuế. Giá bánh mì tăng 75% (1788–1789), làm mâu thuẫn kinh tế thêm gay gắt → dẫn đến đấu tranh giai cấp, khởi đầu bằng sự kiện tấn công Ngục Bastille.",
-        "image": "/The-Storming-of-the-Bastille.webp",
-        "imageCaption": "Sự kiện tấn công Ngục Bastille - biểu tượng của Cách mạng Pháp 1789"
-      },
-      {
-        "heading": "Thực chất của đấu tranh giai cấp",
-        "body": "Là cuộc đấu tranh của quần chúng lao động bị áp bức, bóc lột chống lại giai cấp áp bức, bóc lột nhằm lật đổ ách thống trị, thiết lập quan hệ sản xuất mới.",
+        "heading": "Nguyên nhân sâu xa",
+        "body": "Mâu thuẫn cơ bản của xã hội là mâu thuẫn giữa lực lượng sản xuất (phát triển) và quan hệ sản xuất (lỗi thời). Khi mâu thuẫn gay gắt → cách mạng xã hội → hình thái KT-XH mới ra đời.",
         "variant": "alert-red"
       },
       {
-        "heading": "Ví dụ thực tế: Cách mạng Tháng Mười Nga 1917",
-        "body": "Công nhân Nga làm 12–14 giờ/ngày, lương thấp hơn công nhân Đức 40%. Năm 1917 có 2,5 triệu công nhân đình công. Sự hy sinh quá lớn trong Thế chiến I (tử trận 1,8 triệu người) đẩy mâu thuẫn tới đỉnh điểm. → Quần chúng công – nông đứng lên lật đổ giai cấp tư sản lâm thời, thiết lập chính quyền Xô viết.",
-        "image": "/2.jpg",
-        "imageCaption": "Công nhân Petrograd trong Cách mạng Tháng Hai 1917"
+        "heading": "Tính thống nhất và đa dạng",
+        "body": "Các dân tộc đều tuân theo quy luật chung nhưng có thể có con đường phát triển riêng.",
+        "bullets": [
+          "Xu hướng chung: tiến lên chủ nghĩa xã hội",
+          "Có thể 'bỏ qua' một số giai đoạn phát triển",
+          "Phụ thuộc vào điều kiện cụ thể của mỗi nước"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "htktxh-capitalism",
+    "slug": "hinh-thai-tu-ban-chu-nghia",
+    "title": "Hình thái kinh tế - xã hội tư bản chủ nghĩa",
+    "status": "Chưa học",
+    "sections": [
+      {
+        "heading": "Sự ra đời của CNTB",
+        "body": "Chủ nghĩa tư bản ra đời từ sự tan rã của chế độ phong kiến (thế kỷ XVI-XVIII), thông qua quá trình tích lũy tư bản nguyên thủy.",
+        "highlight": true
       },
       {
-        "heading": "Đặc trưng của đấu tranh giai cấp",
+        "heading": "Đặc trưng của CNTB",
         "bullets": [
-          "Không phải hiện tượng vĩnh viễn. Các cuộc đấu tranh trong lịch sử cuối cùng dẫn đến cuộc đấu tranh của giai cấp vô sản – được xem là cuộc đấu tranh giai cấp cuối cùng.",
-          "Liên minh giai cấp là tất yếu trong quá trình đấu tranh."
+          "Sở hữu tư nhân về tư liệu sản xuất",
+          "Sản xuất hàng hóa phát triển cao",
+          "Bóc lột giá trị thặng dư là bản chất",
+          "Mâu thuẫn cơ bản: giữa tính xã hội của sản xuất và hình thức chiếm hữu tư nhân TBCN"
         ]
       },
       {
-        "heading": "Ví dụ thực tế: Phong trào công nhân Mỹ 1936–1937",
-        "body": "Công nhân GM làm 10–12 giờ/ngày, lương giảm >15% sau Đại Khủng Hoảng. Hơn 150.000 công nhân liên minh đấu tranh kiểu sit-down strike (ngồi chiếm nhà máy). → Kết quả: GM phải ký thỏa thuận công đoàn đầu tiên – thắng lợi từ liên minh công nhân.",
-        "image": "/Gustave_Courbet_-_The_Stonebreakers_-_WGA05457.jpg",
-        "imageCaption": "Phong trào Sit-down Strike tại Flint, Michigan (1937)"
+        "heading": "Giá trị thặng dư",
+        "body": "Là phần giá trị do lao động công nhân tạo ra vượt quá giá trị sức lao động, bị nhà tư bản chiếm đoạt. Đây là bản chất của bóc lột tư bản.",
+        "variant": "alert-red"
       },
       {
-        "heading": "Vai trò của đấu tranh giai cấp trong sự phát triển của xã hội có giai cấp",
-        "body": "Đấu tranh giai cấp đóng vai trò động lực trực tiếp của sự phát triển xã hội:\n\n→ Giải quyết mâu thuẫn cơ bản\n\nĐấu tranh giai cấp là phương thức cơ bản để giải quyết mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất. Khi mâu thuẫn trở nên gay gắt, đấu tranh giai cấp phát triển đến đỉnh cao → hình thành cách mạng xã hội → quan hệ sản xuất mới phù hợp hơn ra đời.",
+        "heading": "Vai trò lịch sử của CNTB",
         "bullets": [
-          "Sau Cách mạng Pháp 1789, chế độ phong kiến bị xóa bỏ, quan hệ sản xuất tư bản chủ nghĩa được xác lập.",
-          "Sau Cách mạng Nga 1917, quan hệ sản xuất phong kiến + tư bản được thay thế bằng quan hệ sản xuất XHCN."
+          "Phát triển lực lượng sản xuất mạnh mẽ chưa từng có",
+          "Xã hội hóa sản xuất ở trình độ cao",
+          "Tạo tiền đề vật chất - kỹ thuật cho CNXH",
+          "Đào tạo, rèn luyện giai cấp công nhân - chủ thể của cách mạng XHCN"
         ]
       },
       {
-        "heading": "",
-        "body": "→ Cải tạo xã hội\n\nĐấu tranh giai cấp có tác dụng cải tạo xã hội:",
+        "heading": "Những hạn chế và mâu thuẫn",
         "bullets": [
-          "Loại bỏ lực lượng sản xuất phản động.",
-          "Làm các giai cấp tiến bộ được rèn luyện và nâng cao ý thức."
+          "Bất bình đẳng xã hội ngày càng sâu sắc",
+          "Khủng hoảng kinh tế chu kỳ",
+          "Thất nghiệp, phân hóa giàu nghèo",
+          "Tàn phá môi trường, cạn kiệt tài nguyên"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "htktxh-communism",
+    "slug": "hinh-thai-cong-san-chu-nghia",
+    "title": "Hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+    "status": "Chưa học",
+    "sections": [
+      {
+        "heading": "Tính tất yếu của CNCS",
+        "body": "Hình thái kinh tế - xã hội cộng sản chủ nghĩa thay thế hình thái tư bản chủ nghĩa là tất yếu lịch sử, do mâu thuẫn cơ bản của CNTB quy định.",
+        "highlight": true
+      },
+      {
+        "heading": "Hai giai đoạn phát triển",
+        "body": "CNCS phát triển qua hai giai đoạn: Chủ nghĩa xã hội (giai đoạn thấp) và Chủ nghĩa cộng sản (giai đoạn cao).",
+        "bullets": [
+          "XHCN: 'Làm theo năng lực, hưởng theo lao động'",
+          "CSCN: 'Làm theo năng lực, hưởng theo nhu cầu'"
         ]
       },
       {
-        "heading": "",
-        "body": "→ Thúc đẩy phát triển toàn diện\n\nĐấu tranh giai cấp thúc đẩy mọi lĩnh vực đời sống xã hội (kinh tế, chính trị, văn hóa, tư tưởng...) phát triển nhanh. Ví dụ: Sau cuộc đấu tranh của công nhân Mỹ 1937, các đạo luật bảo vệ lao động được ban hành, thúc đẩy phát triển dân chủ và tiến bộ xã hội."
+        "heading": "Đặc trưng của CNXH",
+        "bullets": [
+          "Lực lượng sản xuất phát triển cao dựa trên KHCN hiện đại",
+          "Chế độ công hữu về tư liệu sản xuất chủ yếu",
+          "Xóa bỏ bóc lột giai cấp",
+          "Nhà nước XHCN do nhân dân lao động làm chủ",
+          "Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc"
+        ]
+      },
+      {
+        "heading": "Đặc trưng của CNCS (giai đoạn cao)",
+        "bullets": [
+          "Lực lượng sản xuất phát triển cực cao",
+          "Sở hữu toàn dân về tư liệu sản xuất",
+          "Xóa bỏ hoàn toàn giai cấp",
+          "Nhà nước tiêu vong",
+          "Con người phát triển toàn diện"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "htktxh-vietnam",
+    "slug": "qua-do-len-cnxh-viet-nam",
+    "title": "Quá độ lên chủ nghĩa xã hội ở Việt Nam",
+    "status": "Chưa học",
+    "sections": [
+      {
+        "heading": "Con đường đi lên CNXH ở Việt Nam",
+        "body": "Việt Nam lựa chọn con đường quá độ lên CNXH bỏ qua chế độ TBCN, từ một nước nông nghiệp lạc hậu. Đây là sự lựa chọn phù hợp với quy luật lịch sử và điều kiện cụ thể của đất nước.",
+        "highlight": true
+      },
+      {
+        "heading": "Đặc điểm thời kỳ quá độ ở Việt Nam",
+        "bullets": [
+          "Quá độ lên CNXH bỏ qua giai đoạn TBCN",
+          "Từ một nước nông nghiệp lạc hậu, bị chiến tranh tàn phá",
+          "Trong bối cảnh toàn cầu hóa và cách mạng KHCN",
+          "Dưới sự lãnh đạo của Đảng Cộng sản Việt Nam"
+        ]
+      },
+      {
+        "heading": "Mục tiêu tổng quát",
+        "body": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
+        "variant": "alert-red"
+      },
+      {
+        "heading": "Nhiệm vụ trong thời kỳ quá độ",
+        "bullets": [
+          "Công nghiệp hóa, hiện đại hóa đất nước",
+          "Phát triển kinh tế thị trường định hướng XHCN",
+          "Xây dựng Nhà nước pháp quyền XHCN",
+          "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
+          "Bảo vệ vững chắc Tổ quốc XHCN"
+        ]
+      },
+      {
+        "heading": "Thành tựu đạt được",
+        "bullets": [
+          "GDP tăng từ 14 tỷ USD (1985) → hơn 430 tỷ USD (2023)",
+          "Thoát khỏi danh sách nước nghèo, trở thành nước thu nhập trung bình",
+          "93% dân số có bảo hiểm y tế",
+          "Hội nhập quốc tế sâu rộng (WTO, FTA...)"
+        ]
       },
       {
         "heading": "Kết luận",
-        "body": "Đấu tranh giai cấp là động lực trực tiếp của lịch sử trong các xã hội có giai cấp đối kháng.",
+        "body": "Việt Nam kiên định con đường đi lên CNXH là phù hợp với quy luật phát triển của lịch sử và nguyện vọng của nhân dân.",
         "variant": "alert-red"
-      }
-    ]
-  },
-  {
-    "id": "proletariat-struggle",
-    "slug": "dau-tranh-vo-san",
-    "title": "Đấu tranh của giai cấp vô sản",
-    "status": "Chưa học",
-    "sections": [
-      {
-        "heading": "Đấu tranh giai cấp của giai cấp vô sản",
-        "body": "Cuộc đấu tranh của giai cấp vô sản chia làm hai giai đoạn: Giai đoạn trước khi giành chính quyền và giai đoạn sau khi giành chính quyền.",
-        "highlight": true
-      },
-      {
-        "heading": "Đấu tranh giai cấp của giai cấp vô sản khi chưa có chính quyền",
-        "body": "C.Mác và Ph.Ăngghen khái quát và chỉ ra ba hình thức đấu tranh cơ bản:"
-      },
-      {
-        "heading": "1. Đấu tranh kinh tế",
-        "body": "Bảo vệ lợi ích hàng ngày: tăng lương – giảm giờ làm – cải thiện điều kiện lao động."
-      },
-      {
-        "heading": "Ví dụ thực tế",
-        "body": "Phong trào đình công Chicago 1886: Công nhân đòi làm việc 8 giờ/ngày, thay vì 12–16 giờ. Hơn 350.000 công nhân ở 11.000 nhà máy trên toàn nước Mỹ tham gia.\n\nKết quả: Đây trở thành cơ sở để quốc tế công nhận ngày 1/5 – Quốc tế Lao động.",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Công nhân diễu hành cầm biểu ngữ '8 hours work'"
-      },
-      {
-        "heading": "2. Đấu tranh chính trị",
-        "body": "Mục tiêu: Lật đổ ách thống trị của giai cấp tư sản – giành chính quyền."
-      },
-      {
-        "heading": "Ví dụ",
-        "body": "Cách mạng Tháng Mười Nga (1917) – cuộc đấu tranh chính trị tiêu biểu của vô sản.\n\n• Công – nông Nga đứng lên đánh đổ Chính phủ lâm thời tư sản\n\n• Thiết lập Nhà nước Xô Viết đầu tiên trong lịch sử\n\n• Hơn 240.000 binh lính, công nhân tham gia vào các chiến dịch cuối cùng tại Petrograd",
-        "hasImage": true,
-        "image": "/2.jpg",
-        "imageCaption": "Lenin đứng trên bục diễn thuyết trước công nhân Nga"
-      },
-      {
-        "heading": "3. Đấu tranh tư tưởng",
-        "body": "Đập tan hệ tư tưởng tư sản, truyền bá ý thức cách mạng cho công nhân."
-      },
-      {
-        "heading": "Ví dụ",
-        "body": "Phong trào truyền bá Chủ nghĩa Mác ở Đức cuối thế kỷ XIX:\n\n• Số lượng tờ báo công nhân tăng từ 1 tờ (1860) lên 67 tờ (1890)\n\n• Đảng Dân chủ Xã hội Đức (SPD) phát triển từ 41.000 đảng viên lên 1,08 triệu (năm 1914)\n\n→ Cho thấy sức mạnh của tuyên truyền – tư tưởng.",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Trang báo 'Vorwärts' của SPD, hình ảnh nhóm công nhân đọc báo"
-      },
-      {
-        "heading": "Kết luận về ba hình thức đấu tranh",
-        "body": "Ba hình thức này liên hệ với nhau nhưng đấu tranh chính trị là cao nhất → quyết định thắng lợi của vô sản."
-      }
-    ]
-  },
-  {
-    "id": "transition-period",
-    "slug": "thoi-ky-qua-do",
-    "title": "Đấu tranh giai cấp trong thời kì quá độ",
-    "status": "Chưa học",
-    "sections": [
-      {
-        "heading": "Đấu tranh giai cấp trong thời kì quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội",
-        "body": "Sau khi giành được chính quyền, giai cấp vô sản phải tiếp tục đấu tranh giai cấp trong thời kì quá độ.",
-        "highlight": true
-      },
-      {
-        "heading": "Tính tất yếu của đấu tranh giai cấp trong thời kì quá độ",
-        "body": "Sau khi giành được chính quyền, giai cấp vô sản phải tiếp tục đấu tranh giai cấp trong thời kì quá độ do nhiều nguyên nhân."
-      },
-      {
-        "heading": "Ví dụ thực tế: Nga sau 1917",
-        "body": "Ở Nga sau 1917:\n\n• Dù giành chính quyền, 80% doanh nghiệp lớn vẫn nằm trong tay tư sản trong 6 tháng đầu\n\n• Các nhóm phản cách mạng như Bạch vệ có lúc kiểm soát 60% lãnh thổ năm 1919\n\n→ Chứng minh tư sản tuy mất chính quyền nhưng chưa mất kinh tế – tư tưởng.",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Bản đồ phân chia lực lượng Hồng quân – Bạch vệ (1919)"
-      },
-      {
-        "heading": "Nội dung đấu tranh trong thời kì quá độ",
-        "body": "Giai cấp vô sản thực hiện đồng thời hai nhiệm vụ chiến lược: bảo vệ vững chắc thành quả cách mạng và cải tạo xã hội cũ, xây dựng xã hội mới."
-      },
-      {
-        "heading": "1. Về kinh tế",
-        "body": "Xây dựng kinh tế thị trường định hướng XHCN."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "GDP Việt Nam tăng từ 14 tỷ USD (1985) → 430 tỷ USD (2023) nhờ Đổi mới 1986.\n\nXuất khẩu tăng từ 0,8 tỷ USD → 372 tỷ USD (2023).",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Đồ thị tăng trưởng GDP Việt Nam 1986–2023"
-      },
-      {
-        "heading": "2. Về chính trị",
-        "body": "Hoàn thiện hệ thống chính trị, dân chủ XHCN."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "Việt Nam ban hành Hiến pháp 1992, 2001, 2013 để hoàn thiện Nhà nước pháp quyền XHCN.\n\nTỷ lệ đại biểu Quốc hội ngoài Đảng: khoảng 8–10% mỗi khóa → mở rộng dân chủ.",
-        "hasImage": true,
-        "image": "/quoc-hoi.jpg",
-        "imageCaption": "Hình Quốc hội Việt Nam họp"
-      },
-      {
-        "heading": "3. Về tư tưởng và văn hóa",
-        "body": "Đấu tranh chống tư tưởng phản động, giữ vai trò chủ đạo của Chủ nghĩa Mác – Lênin."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "Bộ Thông tin & Truyền thông xử lý hơn 11.000 tin giả trên mạng năm 2023.\n\nHơn 23 triệu học sinh học môn Giáo dục công dân và Lịch sử – xây dựng nền tảng tư tưởng.",
-        "hasImage": true,
-        "image": "/fake-new.jpg",
-        "imageCaption": "Infographic tin giả – fake news"
-      },
-      {
-        "heading": "4. Tính chất mới",
-        "body": "Đấu tranh chống 'diễn biến hòa bình'."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "Hơn 5.000 tài khoản mạng được xác định có hoạt động chống phá mỗi năm (theo báo cáo Bộ Công an).\n\nCác tổ chức phản động tài trợ trung bình 10–15 triệu USD/năm cho hoạt động chống xuyên tạc Việt Nam.",
-        "hasImage": true,
-        "image": "/chien-tranh-thong-tin.jpg",
-        "imageCaption": "Hình minh họa chiến tranh thông tin"
-      }
-    ]
-  },
-  {
-    "id": "transition-vietnam",
-    "slug": "thoi-ky-qua-do-viet-nam",
-    "title": "Đặc điểm đấu tranh giai cấp ở Việt Nam",
-    "status": "Chưa học",
-    "sections": [
-      {
-        "heading": "Đặc điểm đấu tranh giai cấp trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay",
-        "body": "Đấu tranh giai cấp ở Việt Nam có những đặc điểm riêng phù hợp với hoàn cảnh lịch sử và điều kiện cụ thể của đất nước.",
-        "highlight": true
-      },
-      {
-        "heading": "Tính tất yếu của đấu tranh giai cấp ở Việt Nam",
-        "body": "Đấu tranh giai cấp trong thời kì quá độ ở Việt Nam là tất yếu do nhiều nguyên nhân."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "Kinh tế thị trường tạo mâu thuẫn mới: Chênh lệch giàu – nghèo.\n\nNăm 2023:\n\n• Nhóm 20% giàu nhất chiếm 40% tổng thu nhập quốc gia\n\n• Nhóm 20% nghèo nhất chỉ chiếm 7%\n\n→ Cần đấu tranh chống bất công xã hội.",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Biểu đồ thu nhập theo nhóm dân cư Việt Nam"
-      },
-      {
-        "heading": "Nội dung đấu tranh giai cấp ở Việt Nam",
-        "body": "Nội dung cụ thể của đấu tranh giai cấp trong thời kì quá độ ở Việt Nam bao gồm:"
-      },
-      {
-        "heading": "1. Công nghiệp hóa, hiện đại hóa",
-        "body": "Thực hiện thắng lợi sự nghiệp công nghiệp hóa, hiện đại hóa theo định hướng xã hội chủ nghĩa."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "Việt Nam có 400 khu công nghiệp, tạo hơn 5,1 triệu việc làm.\n\nXuất khẩu điện tử chiếm 32% tổng xuất khẩu, dẫn đầu là Samsung với 60.000 lao động.",
-        "hasImage": true,
-        "image": "/lao-dong.jpg",
-        "imageCaption": "Hình công nhân làm việc trong nhà máy điện tử"
-      },
-      {
-        "heading": "2. Thực hiện công bằng xã hội",
-        "body": "Khắc phục tình trạng nước nghèo, đấu tranh chống tham nhũng, bảo vệ công bằng xã hội."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "Mỗi năm Việt Nam xử lý gần 7.000 vụ án tham nhũng – kinh tế.\n\nQuỹ BHYT giúp 93% dân số có bảo hiểm y tế (2023).",
-        "hasImage": true,
-        "image": "",
-        "imageCaption": "Infographic chống tham nhũng ở Việt Nam"
-      },
-      {
-        "heading": "3. Về tư tưởng và văn hóa",
-        "body": "Đấu tranh chống 'diễn biến hòa bình' và các thế lực phản động, bảo vệ vai trò lãnh đạo của Đảng."
-      },
-      {
-        "heading": "Ví dụ thực tế: Việt Nam",
-        "body": "Bộ Công an ngăn chặn 1.200 cuộc tấn công mạng vào cơ sở dữ liệu Nhà nước năm 2022.",
-        "hasImage": true,
-        "image": "/hacker.webp",
-        "imageCaption": "Hình hacker tấn công hệ thống dữ liệu"
       }
     ]
   }
