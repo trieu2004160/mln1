@@ -83,9 +83,12 @@ export default function Home() {
                   <div className="roadmap-number">{idx + 1}</div>
                   <div className="pill">Bước {idx + 1}</div>
                 </div>
-                <h3 className="roadmap-card-title">{roadmap[idx] ?? lesson.title}</h3>
+                <h3 className="roadmap-card-title">
+                  {roadmap[idx] ?? lesson.title}
+                </h3>
                 <p className="muted roadmap-card-desc">
-                  Trạng thái: <span className="badge badge-muted">{lesson.status}</span>
+                  Trạng thái:{" "}
+                  <span className="badge badge-muted">{lesson.status}</span>
                 </p>
                 <div className="roadmap-card-arrow">→</div>
               </Link>
