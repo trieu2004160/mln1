@@ -36,12 +36,13 @@ function LessonMenu({ current }: { current: string }) {
                 </div>
                 <div className="muted">
                   <span
-                    className={`status-dot ${item.status === "done"
-                      ? "status-done"
-                      : item.status === "in-progress"
-                        ? "status-progress"
-                        : "status-idle"
-                      }`}
+                    className={`status-dot ${
+                      item.status === "done"
+                        ? "status-done"
+                        : item.status === "in-progress"
+                          ? "status-progress"
+                          : "status-idle"
+                    }`}
                   />{" "}
                   {status.label}
                 </div>
@@ -211,13 +212,14 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
                     borderRadius: 12,
                     overflow: "hidden",
                     boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
+                    backgroundColor: "rgba(255, 255, 255, 0.03)",
                   }}
                 >
                   <Image
                     src={(section as any).image}
                     alt={section.heading}
                     fill
-                    style={{ objectFit: "cover" }}
+                    style={{ objectFit: "contain" }}
                   />
                 </div>
                 {"imageCaption" in section && section.imageCaption && (

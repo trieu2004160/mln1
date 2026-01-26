@@ -84,10 +84,7 @@
           "Tư liệu lao động: công cụ lao động (thước đo trình độ chinh phục tự nhiên), phương tiện lao động",
           "Đối tượng lao động: những bộ phận của tự nhiên được đưa vào sản xuất",
           "Khoa học – công nghệ: ngày nay trở thành lực lượng sản xuất trực tiếp, giữ vai trò then chốt"
-        ],
-        "hasImage": true,
-        "image": "/luc-luong-san-xuat.jpg",
-        "imageCaption": "Hình ảnh minh họa lực lượng sản xuất"
+        ]
       },
       {
         "heading": "2. Quan hệ sản xuất",
@@ -135,62 +132,80 @@
   {
     "id": "htktxh-history",
     "slug": "cac-hinh-thai-kinh-te-xa-hoi-trong-lich-su",
-    "title": "Các hình thái kinh tế - xã hội trong lịch sử",
+    "title": "Các hình thái kinh tế – xã hội trong lịch sử",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "5 hình thái KT-XH trong lịch sử",
-        "body": "Theo C.Mác, lịch sử loài người đã và sẽ trải qua 5 hình thái kinh tế - xã hội kế tiếp nhau.",
-        "highlight": true
+        "heading": "I. Tiến trình phát triển tự nhiên",
+        "body": "Lịch sử xã hội loài người không phải là sự lắp ghép ngẫu nhiên các chế độ xã hội, mà là một quá trình lịch sử – tự nhiên. Sự vận động này bắt nguồn từ sự phát triển của lực lượng sản xuất, làm thay đổi quan hệ sản xuất, dẫn đến sự thay thế tuần tự các hình thái từ thấp đến cao.",
+        "highlight": true,
+        "hasImage": true,
+        "image": "/lich-su-phat-trien-xa-hoi.jpg",
+        "imageCaption": "Quá trình tiến hóa của xã hội loài người"
       },
       {
-        "heading": "1. Cộng sản nguyên thủy",
-        "body": "Khoảng 2,5 triệu năm - 4000 TCN",
+        "heading": "5 hình thái kinh tế – xã hội cơ bản",
+        "body": "Theo logic lịch sử, nhân loại trải qua 5 hình thái:",
         "bullets": [
-          "Công cụ lao động thô sơ (đá, gỗ, xương)",
-          "Sở hữu chung về tư liệu sản xuất",
-          "Lao động tập thể, phân phối bình đẳng",
-          "Chưa có giai cấp và nhà nước"
+          "1. Cộng sản nguyên thủy (CSNT)",
+          "2. Chiếm hữu nô lệ (CHNL)",
+          "3. Phong kiến",
+          "4. Tư bản chủ nghĩa (TBCN)",
+          "5. Cộng sản chủ nghĩa (Giai đoạn đầu: XHCN)"
         ]
       },
       {
-        "heading": "2. Chiếm hữu nô lệ",
-        "body": "Khoảng 4000 TCN - thế kỷ V",
-        "bullets": [
-          "Xuất hiện chế độ tư hữu về tư liệu sản xuất",
-          "Chủ nô sở hữu cả nô lệ như tài sản",
-          "Mâu thuẫn chủ nô - nô lệ",
-          "Nhà nước đầu tiên ra đời"
-        ]
+        "heading": "II. Đặc trưng và Ví dụ minh họa",
+        "body": "Mỗi hình thái ra đời khi hình thái cũ không còn phù hợp với trình độ phát triển của lực lượng sản xuất.",
+        "highlight": true,
+        "hasImage": true,
+        "image": "/so-sanh-hinh-thai.jpg",
+        "imageCaption": "So sánh đặc trưng các hình thái kinh tế - xã hội"
       },
       {
-        "heading": "3. Phong kiến",
-        "body": "Thế kỷ V - thế kỷ XVIII",
-        "bullets": [
-          "Địa chủ sở hữu ruộng đất",
-          "Nông dân phụ thuộc vào ruộng đất",
-          "Quan hệ bóc lột địa tô",
-          "Nhà nước quân chủ chuyên chế"
-        ]
+        "heading": "1. Hình thái Phong kiến (Ví dụ so sánh)",
+        "body": "**Đặc trưng:** Quan hệ sản xuất dựa trên sở hữu ruộng đất của địa chủ và sự lệ thuộc của nông dân. Hình thức bóc lột chủ yếu là địa tô.\n\n**Ví dụ ngôi làng cổ:**\n\n🔹 **Nhóm A (Địa chủ):** Sở hữu ruộng đất, trâu bò, kho lúa.\n🔹 **Nhóm B (Nông dân):** Không có đất, phải đi cày thuê.\n\n➡️ **Kết quả:** Sau mùa vụ, Nhóm A thu 8 phần lúa, Nhóm B chỉ hưởng 2 phần.",
+        "hasImage": true,
+        "image": "/xa-hoi-phong-kien-la-gi-su-hinh-thanh-phat-trien-cua-xa-hoi-phong-kien-1.jpg",
+        "imageCaption": "Biểu hiện của quan hệ bóc lột địa tô trong xã hội phong kiến"
       },
       {
-        "heading": "4. Tư bản chủ nghĩa",
-        "body": "Thế kỷ XVIII - nay",
-        "bullets": [
-          "Tư sản sở hữu tư liệu sản xuất",
-          "Công nhân bán sức lao động",
-          "Bóc lột giá trị thặng dư",
-          "Dân chủ tư sản, nhà nước pháp quyền"
-        ]
+        "heading": "2. Hình thái Tư bản chủ nghĩa (Ví dụ so sánh)",
+        "body": "**Đặc trưng:** Dựa trên chế độ chiếm hữu tư nhân TBCN. Xã hội phân hóa thành Tư sản và Vô sản. Hình thức bóc lột là giá trị thặng dư.\n\n**Ví dụ nhà máy hiện đại:**\n\n🔹 **Chủ nhà máy:** Sở hữu máy móc, vốn.\n🔹 **Công nhân:** Trực tiếp sản xuất, không sở hữu máy móc.\n\n➡️ **Giá trị thặng dư:** Công nhân tạo ra 1.000.000đ/ngày nhưng chỉ nhận lương 200.000đ. Khoản chênh lệch 800.000đ thuộc về ông chủ.",
+        "hasImage": true,
+        "image": "/nguoi_lao_dong_bi_boc_lot_0507155506.png",
+        "imageCaption": "Bản chất bóc lột giá trị thặng dư trong TBCN"
       },
       {
-        "heading": "5. Cộng sản chủ nghĩa",
-        "body": "Tương lai (giai đoạn đầu là XHCN)",
+        "heading": "3. Hình thái Cộng sản chủ nghĩa",
+        "body": "Là tất yếu khách quan. Hướng tới xóa bỏ áp bức, bóc lột; xây dựng chế độ công hữu về tư liệu sản xuất.\n\n• Giai đoạn đầu (XHCN): Làm theo năng lực, hưởng theo lao động.\n• Giai đoạn cao: Làm theo năng lực, hưởng theo nhu cầu.",
+        "highlight": true,
+        "hasImage": true,
+        "image": "/xa-hoi-chu-nghia.jpg",
+        "imageCaption": "Xã hội chủ nghĩa - giai đoạn đầu của Cộng sản chủ nghĩa"
+      },
+      {
+        "heading": "III. Tính quy luật của sự phát triển",
+        "body": "Các hình thái thay thế nhau do quy luật khách quan: Lực lượng sản xuất phát triển → Quan hệ sản xuất cũ kìm hãm → Mâu thuẫn gay gắt → Cách mạng xã hội nổ ra.",
+        "variant": "alert-red",
+        "hasImage": true,
+        "image": "/quy-luat-phat-trien.jpg",
+        "imageCaption": "Quy luật thay thế các hình thái kinh tế - xã hội"
+      },
+      {
+        "heading": "Tính đặc thù – Sự phát triển 'bỏ qua'",
+        "body": "Do điều kiện lịch sử và bối cảnh quốc tế, một số quốc gia có thể rút ngắn con đường phát triển.\n\n📌 **Ví dụ:** Việt Nam bỏ qua chế độ Tư bản chủ nghĩa để đi lên Chủ nghĩa xã hội.",
+        "hasImage": true,
+        "image": "/lyluanchinhtri.vn-home-media-k2-items-cache-_e91f5df61683ad642f80f8746e777635_l.jpg",
+        "imageCaption": "Việt Nam quá độ lên Chủ nghĩa xã hội"
+      },
+      {
+        "heading": "IV. Ghi nhớ nhanh",
         "bullets": [
-          "Sở hữu công cộng về tư liệu sản xuất",
-          "Xóa bỏ giai cấp và bóc lột",
-          "Phân phối theo lao động (XHCN) → theo nhu cầu (CSCN)",
-          "Nhà nước tiêu vong dần"
+          "Trình tự: CSNT → CHNL → Phong kiến → TBCN → CSCN",
+          "Động lực phát triển: Lực lượng sản xuất",
+          "Bản chất thay thế: Do mâu thuẫn giữa LLSX và QHSX",
+          "Trọng tâm: Phong kiến (bóc lột địa tô) vs TBCN (bóc lột giá trị thặng dư)"
         ]
       }
     ]
@@ -202,31 +217,66 @@
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Quy luật cơ bản",
-        "body": "Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất là quy luật cơ bản chi phối sự vận động, phát triển và thay thế các hình thái kinh tế - xã hội.",
+        "heading": "I. Cơ sở của quy luật vận động xã hội",
+        "body": "Sự phát triển của xã hội tuân theo quy luật khách quan quan trọng nhất: **Quy luật quan hệ sản xuất phải phù hợp với trình độ phát triển của lực lượng sản xuất.**\n\nHình thái kinh tế - xã hội gồm 3 bộ phận: LLSX (nền tảng), QHSX (cơ sở hạ tầng), và Kiến trúc thượng tầng.",
         "highlight": true
       },
       {
-        "heading": "Tính khách quan của sự thay thế",
-        "body": "Sự thay thế các hình thái KT-XH là quá trình lịch sử - tự nhiên, không phụ thuộc vào ý muốn chủ quan của con người.",
+        "heading": "Vai trò của Lực lượng sản xuất",
+        "body": "LLSX là yếu tố **năng động nhất**, luôn phát triển không ngừng. Khi LLSX phát triển đến trình độ mới, nó đòi hỏi QHSX phải thay đổi cho phù hợp."
+      },
+      {
+        "heading": "Vai trò của Quan hệ sản xuất",
+        "body": "QHSX là 'hình thức xã hội' của sản xuất. Nếu phù hợp với LLSX thì **thúc đẩy** phát triển; nếu lỗi thời thì **kìm hãm**, dẫn đến mâu thuẫn."
+      },
+      {
+        "heading": "Vai trò của Kiến trúc thượng tầng",
+        "body": "KTTT được xác định bởi QHSX, có tác động ngược lại **bảo vệ hoặc phá vỡ** QHSX cũ. Nhà nước là công cụ quan trọng nhất trong việc duy trì hoặc thay đổi hình thái."
+      },
+      {
+        "heading": "II. Mâu thuẫn – Nguồn gốc sự thay thế"
+      },
+      {
+        "body": "Khi LLSX phát triển nhưng QHSX cũ vẫn giữ nguyên → Mâu thuẫn gay gắt → Khủng hoảng → Cách mạng xã hội → Hình thái mới ra đời.",
+        "variant": "alert-red",
+        "hasImage": true,
+        "image": "/mau-thuan-llsx-qhsx.jpg",
+        "imageCaption": "Mô hình mâu thuẫn giữa LLSX và QHSX"
+      },
+      {
+        "heading": "Ví dụ minh họa tiêu biểu",
         "bullets": [
-          "Do mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất",
-          "Mâu thuẫn giữa cơ sở hạ tầng và kiến trúc thượng tầng",
-          "Cách mạng xã hội là động lực thay đổi"
+          "Từ Phong kiến → Tư bản: LLSX (máy móc) mâu thuẫn với QHSX phong kiến (nông nô) → Cách mạng tư sản.",
+          "Trong lòng CNTB: LLSX (xã hội hóa cao) mâu thuẫn với QHSX (chiếm hữu tư nhân) → Tiền đề cho CNXH."
         ]
       },
       {
-        "heading": "Nguyên nhân sâu xa",
-        "body": "Mâu thuẫn cơ bản của xã hội là mâu thuẫn giữa lực lượng sản xuất (phát triển) và quan hệ sản xuất (lỗi thời). Khi mâu thuẫn gay gắt → cách mạng xã hội → hình thái KT-XH mới ra đời.",
-        "variant": "alert-red"
+        "heading": "III. Quy luật thay thế các hình thái",
+        "body": "Mỗi hình thái chỉ tồn tại trong một giai đoạn nhất định. Trình tự phổ biến: CSNT → CHNL → Phong kiến → TBCN → CSCN.",
+        "highlight": true
       },
       {
-        "heading": "Tính thống nhất và đa dạng",
-        "body": "Các dân tộc đều tuân theo quy luật chung nhưng có thể có con đường phát triển riêng.",
+        "heading": "IV. Tính khách quan và Lịch sử – Cụ thể",
         "bullets": [
-          "Xu hướng chung: tiến lên chủ nghĩa xã hội",
-          "Có thể 'bỏ qua' một số giai đoạn phát triển",
-          "Phụ thuộc vào điều kiện cụ thể của mỗi nước"
+          "Tính khách quan: Không phụ thuộc vào ý muốn chủ quan, con người chỉ có thể nhận thức và vận dụng.",
+          "Tính lịch sử – cụ thể: Mỗi quốc gia có con đường riêng (Có nước đi tuần tự, có nước 'bỏ qua')."
+        ]
+      },
+      {
+        "heading": "V. Con đường phát triển đặc thù của từng quốc gia",
+        "body": "Các quốc gia không nhất thiết phải trải qua **tuần tự đầy đủ** tất cả 5 hình thái. Trong điều kiện lịch sử cụ thể, một quốc gia có thể **rút ngắn** hoặc **vượt qua** một số giai đoạn.\n\n📌 **Ví dụ Việt Nam:** Từ xã hội phong kiến trực tiếp lên CNXH (không trải qua TBCN phát triển đầy đủ), nhờ bối cảnh thời đại mới và sự lãnh đạo của Đảng Cộng sản.",
+        "hasImage": true,
+        "image": "/ly-luan-ve-thoi-ky-qua-do-len-chu-nghia-xa-hoi-o-viet-nam-tu-di-san-vo-gia-cua-chu-tich-ho-chi-minh-den-ly-luan-sau-sac-cua-tong-bi-thu-nguyen-phu-trong_2.jpg",
+        "imageCaption": "Con đường quá độ lên CNXH ở Việt Nam"
+      },
+      {
+        "heading": "VI. Ghi nhớ nhanh",
+        "bullets": [
+          "Động lực sâu xa: Mâu thuẫn giữa LLSX và QHSX",
+          "Nguyên nhân thay thế: QHSX cũ kìm hãm LLSX",
+          "Hình thức thay thế: Cách mạng xã hội",
+          "Tính chất quy luật: Khách quan – lịch sử – cụ thể",
+          "Con đường Việt Nam: Bỏ qua TBCN, đi lên CNXH"
         ]
       }
     ]
@@ -234,44 +284,73 @@
   {
     "id": "htktxh-capitalism",
     "slug": "hinh-thai-tu-ban-chu-nghia",
-    "title": "Hình thái kinh tế - xã hội tư bản chủ nghĩa",
+    "title": "Hình thái kinh tế – xã hội tư bản chủ nghĩa",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Sự ra đời của CNTB",
-        "body": "Chủ nghĩa tư bản ra đời từ sự tan rã của chế độ phong kiến (thế kỷ XVI-XVIII), thông qua quá trình tích lũy tư bản nguyên thủy.",
+        "heading": "I. Khái niệm",
+        "body": "Là giai đoạn phát triển lịch sử trong đó quan hệ sản xuất tư bản chủ nghĩa giữ vai trò thống trị. Đặc trưng bởi sở hữu tư nhân về tư liệu sản xuất và lao động làm thuê nhằm mục đích tối đa hóa lợi nhuận.",
         "highlight": true
       },
       {
-        "heading": "Đặc trưng của CNTB",
+        "heading": "II. Cơ sở kinh tế của TBCN",
         "bullets": [
-          "Sở hữu tư nhân về tư liệu sản xuất",
-          "Sản xuất hàng hóa phát triển cao",
-          "Bóc lột giá trị thặng dư là bản chất",
-          "Mâu thuẫn cơ bản: giữa tính xã hội của sản xuất và hình thức chiếm hữu tư nhân TBCN"
+          "Chế độ sở hữu tư nhân tư bản chủ nghĩa: Tư liệu sản xuất thuộc về thiểu số nhà tư bản.",
+          "Lao động làm thuê: Người lao động không có tư liệu sản xuất, phải bán sức lao động.",
+          "Sản xuất vì lợi nhuận: Mục đích tối cao là lợi nhuận, thông qua bóc lột giá trị thặng dư."
+        ],
+        "hasImage": true,
+        "image": "/Screenshot 2026-01-22 163952.png",
+        "imageCaption": "Sơ đồ cơ sở kinh tế của CNTB"
+      },
+      {
+        "heading": "III. Cấu trúc giai cấp",
+        "body": "Xã hội phân hóa sâu sắc thành hai giai cấp cơ bản đối kháng:",
+        "bullets": [
+          "Giai cấp Tư sản: Sở hữu tư liệu sản xuất, nắm quyền chi phối, chiếm đoạt giá trị thặng dư.",
+          "Giai cấp Vô sản: Không sở hữu tư liệu sản xuất, bán sức lao động, bị bóc lột.",
+          "Tầng lớp trung gian: Tiểu tư sản, trí thức, quản lý... (ngày càng đa dạng)."
         ]
       },
       {
-        "heading": "Giá trị thặng dư",
-        "body": "Là phần giá trị do lao động công nhân tạo ra vượt quá giá trị sức lao động, bị nhà tư bản chiếm đoạt. Đây là bản chất của bóc lột tư bản.",
-        "variant": "alert-red"
+        "heading": "IV. Bản chất bóc lột: Giá trị thặng dư",
+        "body": "**Giá trị thặng dư** là phần giá trị dôi ra ngoài tiền lương do công nhân tạo ra nhưng bị nhà tư bản chiếm đoạt.\n\n📌 **Ví dụ:** Công nhân làm ra 1.000.000đ, chỉ được trả 200.000đ → 800.000đ là giá trị thặng dư.",
+        "variant": "alert-red",
+        "hasImage": true,
+        "image": "/gia-tri-thang-du-minh-hoa.jpg",
+        "imageCaption": "Minh họa bản chất bóc lột giá trị thặng dư"
       },
       {
-        "heading": "Vai trò lịch sử của CNTB",
+        "heading": "V. Đặc điểm nổi bật của TBCN",
         "bullets": [
-          "Phát triển lực lượng sản xuất mạnh mẽ chưa từng có",
-          "Xã hội hóa sản xuất ở trình độ cao",
-          "Tạo tiền đề vật chất - kỹ thuật cho CNXH",
-          "Đào tạo, rèn luyện giai cấp công nhân - chủ thể của cách mạng XHCN"
+          "Phát triển lực lượng sản xuất mạnh mẽ: Tạo ra năng suất lao động cao chưa từng có.",
+          "Mâu thuẫn nội tại sâu sắc: Giữa tính xã hội hóa của sản xuất và chế độ chiếm hữu tư nhân.",
+          "Sự tha hóa con người: Quan hệ người – người bị vật hóa thành quan hệ tiền tệ."
         ]
       },
       {
-        "heading": "Những hạn chế và mâu thuẫn",
+        "heading": "VI. Xu hướng phát triển của TBCN hiện đại",
+        "body": "TBCN liên tục điều chỉnh để tồn tại nhưng bản chất bóc lột không thay đổi:",
         "bullets": [
-          "Bất bình đẳng xã hội ngày càng sâu sắc",
-          "Khủng hoảng kinh tế chu kỳ",
-          "Thất nghiệp, phân hóa giàu nghèo",
-          "Tàn phá môi trường, cạn kiệt tài nguyên"
+          "Can thiệp nhà nước và phúc lợi xã hội để xoa dịu mâu thuẫn.",
+          "Toàn cầu hóa tư bản: Chuyển dịch sản xuất, bóc lột lao động giá rẻ.",
+          "Kinh tế số và tư bản công nghệ: Hình thức bóc lột tinh vi hơn qua dữ liệu và nền tảng."
+        ]
+      },
+      {
+        "heading": "VII. Ý nghĩa nhận thức và thực tiễn",
+        "body": "TBCN là một nấc thang lịch sử nhưng không phải là cuối cùng. Việc Việt Nam phát triển kinh tế thị trường định hướng XHCN là sự vận dụng sáng tạo, tiếp thu mặt tích cực của nhân loại nhưng không đi theo con đường TBCN.",
+        "highlight": true
+      },
+      {
+        "heading": "VIII. Ghi nhớ nhanh",
+        "bullets": [
+          "Cơ sở kinh tế: Sở hữu tư nhân TBCN",
+          "Quan hệ cơ bản: Tư sản – Vô sản",
+          "Bản chất bóc lột: Giá trị thặng dư",
+          "Động lực phát triển: Lợi nhuận",
+          "Mâu thuẫn cơ bản: Xã hội hóa ↔ Tư hữu",
+          "Xu hướng: Bị thay thế bởi CNXH"
         ]
       }
     ]
@@ -279,40 +358,69 @@
   {
     "id": "htktxh-communism",
     "slug": "hinh-thai-cong-san-chu-nghia",
-    "title": "Hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+    "title": "Hình thái kinh tế – xã hội Cộng sản chủ nghĩa (CSCN)",
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Tính tất yếu của CNCS",
-        "body": "Hình thái kinh tế - xã hội cộng sản chủ nghĩa thay thế hình thái tư bản chủ nghĩa là tất yếu lịch sử, do mâu thuẫn cơ bản của CNTB quy định.",
+        "heading": "I. Khái niệm",
+        "body": "CSCN là hình thái phát triển cao nhất, đặc trưng bởi: chế độ công hữu về TLSX, xóa bỏ áp bức bóc lột, con người được giải phóng toàn diện. Trải qua 2 giai đoạn: Xã hội chủ nghĩa (thấp) và Cộng sản chủ nghĩa (cao).",
         "highlight": true
       },
       {
-        "heading": "Hai giai đoạn phát triển",
-        "body": "CNCS phát triển qua hai giai đoạn: Chủ nghĩa xã hội (giai đoạn thấp) và Chủ nghĩa cộng sản (giai đoạn cao).",
+        "heading": "II. Sự ra đời – Tính tất yếu lịch sử",
         "bullets": [
-          "XHCN: 'Làm theo năng lực, hưởng theo lao động'",
-          "CSCN: 'Làm theo năng lực, hưởng theo nhu cầu'"
+          "Nguyên nhân kinh tế: Mâu thuẫn giữa tính xã hội hóa cao của sản xuất và chế độ chiếm hữu tư nhân TBCN → đòi hỏi QHSX mới.",
+          "Nguyên nhân chính trị: Giai cấp vô sản lớn mạnh, đấu tranh dưới sự lãnh đạo của Đảng Cộng sản."
         ]
       },
       {
-        "heading": "Đặc trưng của CNXH",
+        "heading": "III. Hai giai đoạn phát triển",
+        "body": "Phân biệt 2 giai đoạn phân phối:",
         "bullets": [
-          "Lực lượng sản xuất phát triển cao dựa trên KHCN hiện đại",
-          "Chế độ công hữu về tư liệu sản xuất chủ yếu",
-          "Xóa bỏ bóc lột giai cấp",
-          "Nhà nước XHCN do nhân dân lao động làm chủ",
-          "Nền văn hóa tiên tiến, đậm đà bản sắc dân tộc"
+          "Giai đoạn thấp (XHCN): 'Làm theo năng lực, hưởng theo lao động'.",
+          "Giai đoạn cao (CSCN hoàn chỉnh): 'Làm theo năng lực, hưởng theo nhu cầu'."
         ]
       },
       {
-        "heading": "Đặc trưng của CNCS (giai đoạn cao)",
+        "heading": "Ví dụ minh họa hai giai đoạn",
         "bullets": [
-          "Lực lượng sản xuất phát triển cực cao",
-          "Sở hữu toàn dân về tư liệu sản xuất",
-          "Xóa bỏ hoàn toàn giai cấp",
-          "Nhà nước tiêu vong",
-          "Con người phát triển toàn diện"
+          "XHCN (Hợp tác xã): Ai làm nhiều hưởng nhiều, chưa bình đẳng tuyệt đối.",
+          "CSCN (Xã hội tương lai): Của cải dồi dào, ai cần gì lấy nấy, quan hệ nhân văn."
+        ]
+      },
+      {
+        "heading": "IV. Cơ sở kinh tế và Đặc trưng xã hội"
+      },
+      {
+        "bullets": [
+          "Cơ sở kinh tế: Công hữu về TLSX, sản xuất vì con người, lao động tự nguyện sáng tạo.",
+          "Đặc trưng xã hội: Xóa bỏ áp bức, công bằng, phát triển con người toàn diện."
+        ],
+        "variant": "alert-red",
+        "hasImage": true,
+        "image": "/xa-hoi-tuong-lai.jpg",
+        "imageCaption": "Mô hình xã hội hướng tới sự phát triển toàn diện"
+      },
+      {
+        "heading": "VI. Nhà nước trong CSCN",
+        "body": "• **Giai đoạn XHCN:** Nhà nước còn tồn tại để tổ chức quản lý và trấn áp phản cách mạng.\n• **Giai đoạn CSCN:** Nhà nước tự tiêu vong, thay bằng sự quản lý cộng đồng tự giác.",
+        "highlight": true
+      },
+      {
+        "heading": "VII. Ý nghĩa nhận thức và thực tiễn",
+        "bullets": [
+          "Hiểu mục tiêu cuối cùng của nhân loại: Giải phóng con người.",
+          "Tại Việt Nam: Kiên định con đường đi lên CNXH, hiểu đúng thời kỳ quá độ."
+        ]
+      },
+      {
+        "heading": "VIII. Ghi nhớ nhanh",
+        "bullets": [
+          "Hình thái cao nhất: CSCN (2 giai đoạn: XHCN → CSCN hoàn chỉnh)",
+          "Cơ sở kinh tế: Công hữu TLSX",
+          "Mục đích sản xuất: Vì con người",
+          "Phân phối: XHCN (Theo lao động) → CSCN (Theo nhu cầu)",
+          "Nhà nước: XHCN (Tồn tại) → CSCN (Tiêu vong)"
         ]
       }
     ]
@@ -324,32 +432,151 @@
     "status": "Chưa học",
     "sections": [
       {
-        "heading": "Con đường đi lên CNXH ở Việt Nam",
-        "body": "Việt Nam lựa chọn con đường quá độ lên CNXH bỏ qua chế độ TBCN, từ một nước nông nghiệp lạc hậu. Đây là sự lựa chọn phù hợp với quy luật lịch sử và điều kiện cụ thể của đất nước.",
+        "heading": "I. Khái niệm quá độ lên CNXH",
+        "body": "Quá độ lên Chủ nghĩa xã hội (XHCN) là giai đoạn chuyển tiếp lịch sử từ xã hội tư bản chủ nghĩa (TBCN) hoặc phong kiến sang xã hội xã hội chủ nghĩa, và hướng tới Cộng sản chủ nghĩa hoàn chỉnh.",
         "highlight": true
       },
       {
-        "heading": "Đặc điểm thời kỳ quá độ ở Việt Nam",
+        "heading": "Đặc trưng của quá độ",
         "bullets": [
-          "Quá độ lên CNXH bỏ qua giai đoạn TBCN",
-          "Từ một nước nông nghiệp lạc hậu, bị chiến tranh tàn phá",
-          "Trong bối cảnh toàn cầu hóa và cách mạng KHCN",
-          "Dưới sự lãnh đạo của Đảng Cộng sản Việt Nam"
+          "Vừa phải kế thừa thành tựu của các hình thái trước",
+          "Vừa phải xóa bỏ áp bức, bóc lột giai cấp",
+          "Không thể đạt ngay CSCN, phải đi từng bước thực tiễn"
         ]
       },
       {
-        "heading": "Mục tiêu tổng quát",
-        "body": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh.",
-        "variant": "alert-red"
+        "heading": "II. Cơ sở khách quan của quá độ",
+        "body": "Việt Nam có điều kiện đặc thù để quá độ lên CNXH:"
       },
       {
-        "heading": "Nhiệm vụ trong thời kỳ quá độ",
+        "heading": "Về lực lượng sản xuất",
         "bullets": [
-          "Công nghiệp hóa, hiện đại hóa đất nước",
-          "Phát triển kinh tế thị trường định hướng XHCN",
-          "Xây dựng Nhà nước pháp quyền XHCN",
-          "Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc",
-          "Bảo vệ vững chắc Tổ quốc XHCN"
+          "Nông nghiệp còn chiếm tỷ trọng cao",
+          "Công nghiệp mới hình thành, năng suất lao động còn thấp",
+          "Cần thời gian để phát triển lực lượng sản xuất"
+        ]
+      },
+      {
+        "heading": "Về mâu thuẫn nội tại",
+        "bullets": [
+          "Giai cấp phong kiến – tư sản còn tồn tại",
+          "Giai cấp vô sản chưa đủ mạnh về số lượng, kinh tế, chính trị",
+          "Cần xây dựng chế độ XHCN để giải quyết mâu thuẫn"
+        ]
+      },
+      {
+        "heading": "Ảnh hưởng quốc tế",
+        "bullets": [
+          "Cách mạng Tháng Mười Nga (1917)",
+          "Chiến tranh giải phóng dân tộc",
+          "Hợp tác quốc tế với các nước xã hội chủ nghĩa"
+        ]
+      },
+      {
+        "heading": "III. Nguyên tắc quá độ lên CNXH"
+      },
+      {
+        "heading": "1. Lấy giai cấp công nhân làm nòng cốt",
+        "bullets": [
+          "Công nhân là lực lượng lãnh đạo cách mạng xã hội",
+          "Có vai trò quyết định trong xây dựng quan hệ sản xuất mới"
+        ]
+      },
+      {
+        "heading": "2. Liên minh công – nông – trí thức",
+        "body": "Hợp tác giữa giai cấp công nhân, nông dân và trí thức. Đảm bảo sự ổn định và bền vững của quá trình quá độ."
+      },
+      {
+        "heading": "3. Xây dựng nền kinh tế nhiều thành phần",
+        "bullets": [
+          "Kinh tế Nhà nước: là động lực chủ yếu",
+          "Kinh tế tập thể: hợp tác xã, tổ hợp sản xuất",
+          "Kinh tế tư nhân: được khuyến khích, nhưng phục vụ XHCN",
+          "Nguyên tắc: phát triển lực lượng sản xuất + công bằng xã hội"
+        ]
+      },
+      {
+        "heading": "4. Phát triển lực lượng sản xuất",
+        "bullets": [
+          "Tăng năng suất lao động",
+          "Áp dụng khoa học – công nghệ",
+          "Giảm đói nghèo, nâng cao giáo dục, y tế",
+          "Tạo cơ sở vật chất – xã hội cho CNXH"
+        ]
+      },
+      {
+        "heading": "IV. Hình thức và phương thức thực hiện"
+      },
+      {
+        "heading": "Cách mạng chính trị – xã hội",
+        "bullets": [
+          "Lật đổ chế độ phong kiến, xóa bỏ áp bức",
+          "Xây dựng chính quyền XHCN"
+        ]
+      },
+      {
+        "heading": "Cải cách kinh tế – ruộng đất",
+        "bullets": [
+          "Chuyển giao tài sản, tư liệu sản xuất cho nhân dân",
+          "Hợp tác hóa nông nghiệp, phát triển công nghiệp"
+        ]
+      },
+      {
+        "heading": "Xây dựng nền văn hóa XHCN",
+        "bullets": [
+          "Xây dựng con người mới",
+          "Đào tạo trí thức, kỹ sư, cán bộ quản lý",
+          "Giáo dục tinh thần công bằng, đoàn kết, sáng tạo"
+        ]
+      },
+      {
+        "heading": "V. Thời kỳ quá độ ở Việt Nam"
+      },
+      {
+        "heading": "Giai đoạn 1945 – 1954",
+        "body": "Khởi đầu quá độ: Xây dựng chính quyền cách mạng, cải cách ruộng đất, tổ chức các hợp tác xã nông nghiệp, công nghiệp nhẹ."
+      },
+      {
+        "heading": "Giai đoạn 1954 – 1975 (miền Bắc)",
+        "bullets": [
+          "Hợp tác hóa nông nghiệp",
+          "Xây dựng công nghiệp cơ bản",
+          "Giáo dục, y tế, văn hóa: nâng cao dân trí"
+        ]
+      },
+      {
+        "heading": "Giai đoạn sau 1975 – nay (toàn quốc)",
+        "bullets": [
+          "Đổi mới (1986): áp dụng kinh tế thị trường định hướng XHCN",
+          "Vừa phát triển kinh tế, vừa giữ định hướng XHCN",
+          "Nâng cao đời sống vật chất, tinh thần",
+          "Tiếp thu thành tựu khoa học – kỹ thuật thế giới"
+        ]
+      },
+      {
+        "heading": "VI. Mục tiêu và ý nghĩa của quá độ"
+      },
+      {
+        "heading": "Về kinh tế",
+        "bullets": [
+          "Phát triển lực lượng sản xuất",
+          "Xóa đói giảm nghèo",
+          "Đảm bảo kinh tế bền vững"
+        ]
+      },
+      {
+        "heading": "Về chính trị",
+        "bullets": [
+          "Giai cấp công nhân lãnh đạo",
+          "Liên minh công – nông – trí thức ổn định xã hội"
+        ]
+      },
+      {
+        "heading": "Về xã hội",
+        "bullets": [
+          "Xóa bỏ áp bức, bất công",
+          "Xây dựng con người mới",
+          "Tăng cường đoàn kết, hợp tác xã hội"
         ]
       },
       {
