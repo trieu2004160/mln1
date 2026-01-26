@@ -40,6 +40,7 @@ body {
 }
 
 @media (prefers-reduced-motion: reduce) {
+
   *,
   *::before,
   *::after {
@@ -73,16 +74,12 @@ a {
   position: fixed;
   inset: 0;
   background:
-    radial-gradient(
-      circle at 20% 20%,
+    radial-gradient(circle at 20% 20%,
       rgba(251, 191, 36, 0.1),
-      transparent 35%
-    ),
-    radial-gradient(
-      circle at 80% 80%,
+      transparent 35%),
+    radial-gradient(circle at 80% 80%,
       rgba(245, 158, 11, 0.08),
-      transparent 35%
-    ),
+      transparent 35%),
     linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
   z-index: -2;
 }
@@ -104,11 +101,9 @@ a {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: linear-gradient(
-    135deg,
-    rgba(10, 10, 10, 0.98),
-    rgba(26, 26, 26, 0.98)
-  );
+  background: linear-gradient(135deg,
+      rgba(10, 10, 10, 0.98),
+      rgba(26, 26, 26, 0.98));
   backdrop-filter: blur(20px);
   border-bottom: 3px solid rgba(251, 191, 36, 0.3);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
@@ -326,11 +321,9 @@ a {
 
 .highlight-card {
   border-left: 6px solid var(--color-primary);
-  background: linear-gradient(
-    135deg,
-    rgba(251, 191, 36, 0.15),
-    rgba(245, 158, 11, 0.08)
-  );
+  background: linear-gradient(135deg,
+      rgba(251, 191, 36, 0.15),
+      rgba(245, 158, 11, 0.08));
   border-radius: 16px;
   padding: 24px;
   box-shadow: 0 4px 16px rgba(251, 191, 36, 0.1);
@@ -402,7 +395,7 @@ a {
 .hero-banner .hero-inner {
   position: relative;
   padding: 48px 24px;
-  max-width: 860px;
+  max-width: 1200px;
   z-index: 2;
 }
 
@@ -410,18 +403,16 @@ a {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(
-    135deg,
-    rgba(10, 10, 10, 0.85) 0%,
-    rgba(26, 26, 26, 0.85) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(10, 10, 10, 0.85) 0%,
+      rgba(26, 26, 26, 0.85) 100%);
   z-index: 1;
 }
 
 .hero-banner h1 {
   position: relative;
   color: #fff;
-  font-size: clamp(42px, 5vw, 72px);
+  font-size: clamp(28px, 5vw, 72px);
   font-weight: 900;
   letter-spacing: -0.02em;
   text-transform: uppercase;
@@ -625,20 +616,16 @@ a {
 }
 
 .feature-card-primary {
-  background: linear-gradient(
-    135deg,
-    rgba(251, 191, 36, 0.05),
-    rgba(252, 211, 77, 0.05)
-  );
+  background: linear-gradient(135deg,
+      rgba(251, 191, 36, 0.05),
+      rgba(252, 211, 77, 0.05));
   border-color: var(--color-primary);
 }
 
 .feature-card-primary:hover {
-  background: linear-gradient(
-    135deg,
-    rgba(251, 191, 36, 0.1),
-    rgba(252, 211, 77, 0.1)
-  );
+  background: linear-gradient(135deg,
+      rgba(251, 191, 36, 0.1),
+      rgba(252, 211, 77, 0.1));
 }
 
 .quiz-card {
@@ -666,11 +653,9 @@ a {
 
 .site-footer {
   margin-top: 80px;
-  background: linear-gradient(
-    135deg,
-    rgba(10, 10, 10, 0.98) 0%,
-    rgba(26, 26, 26, 0.98) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(10, 10, 10, 0.98) 0%,
+      rgba(26, 26, 26, 0.98) 100%);
   color: var(--color-primary);
   padding: 60px 0 24px;
   box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.8);
@@ -758,11 +743,9 @@ a {
 
 .lesson-item.active {
   border-color: var(--color-primary);
-  background: linear-gradient(
-    135deg,
-    rgba(251, 191, 36, 0.1),
-    rgba(252, 211, 77, 0.05)
-  );
+  background: linear-gradient(135deg,
+      rgba(251, 191, 36, 0.1),
+      rgba(252, 211, 77, 0.05));
 }
 
 .lesson-item h4 {
@@ -822,11 +805,9 @@ a {
 }
 
 .highlight-block {
-  background: linear-gradient(
-    135deg,
-    rgba(251, 191, 36, 0.1),
-    rgba(252, 211, 77, 0.05)
-  );
+  background: linear-gradient(135deg,
+      rgba(251, 191, 36, 0.1),
+      rgba(252, 211, 77, 0.05));
   border-left: 5px solid var(--color-primary);
   border-radius: 16px;
   padding: 24px;
@@ -840,11 +821,9 @@ a {
 }
 
 .alert-red {
-  background: linear-gradient(
-    135deg,
-    rgba(251, 191, 36, 0.15),
-    rgba(245, 158, 11, 0.1)
-  );
+  background: linear-gradient(135deg,
+      rgba(251, 191, 36, 0.15),
+      rgba(245, 158, 11, 0.1));
   border-left: 5px solid var(--color-primary);
   border-radius: 16px;
   padding: 24px;
@@ -943,11 +922,9 @@ a {
 }
 
 .prev-btn::before {
-  background: linear-gradient(
-    135deg,
-    rgba(251, 191, 36, 0.1),
-    rgba(252, 211, 77, 0.05)
-  );
+  background: linear-gradient(135deg,
+      rgba(251, 191, 36, 0.1),
+      rgba(252, 211, 77, 0.05));
 }
 
 .prev-btn:hover {
@@ -968,11 +945,9 @@ a {
 }
 
 .next-btn::before {
-  background: linear-gradient(
-    135deg,
-    rgba(255, 255, 255, 0.2),
-    rgba(255, 255, 255, 0.05)
-  );
+  background: linear-gradient(135deg,
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.05));
 }
 
 .next-btn:hover {
@@ -1331,6 +1306,7 @@ a {
 }
 
 @keyframes floatSlow {
+
   0%,
   100% {
     transform: translateY(0) scale(1);
@@ -1344,6 +1320,7 @@ a {
 }
 
 @keyframes pulse {
+
   0%,
   100% {
     transform: scale(1);
@@ -1442,6 +1419,7 @@ a {
 }
 
 @keyframes bounce {
+
   0%,
   100% {
     transform: translateY(0);
@@ -1579,11 +1557,9 @@ a {
 .card-conclusion {
   margin-top: 24px;
   padding: 18px;
-  background: linear-gradient(
-    120deg,
-    rgba(33, 150, 243, 0.1),
-    rgba(100, 181, 246, 0.08)
-  );
+  background: linear-gradient(120deg,
+      rgba(33, 150, 243, 0.1),
+      rgba(100, 181, 246, 0.08));
   border-left: 4px solid #1a237e;
   border-radius: 10px;
   font-weight: 700;
@@ -1660,11 +1636,9 @@ a {
 .evidence-conclusion {
   margin-top: 18px;
   padding: 14px 16px;
-  background: linear-gradient(
-    120deg,
-    rgba(26, 35, 126, 0.08),
-    rgba(33, 150, 243, 0.06)
-  );
+  background: linear-gradient(120deg,
+      rgba(26, 35, 126, 0.08),
+      rgba(33, 150, 243, 0.06));
   border-radius: 10px;
   font-weight: 600;
   color: #1a237e;
@@ -1680,11 +1654,9 @@ a {
 }
 
 .evaluation-box {
-  background: linear-gradient(
-    135deg,
-    rgba(26, 35, 126, 0.04),
-    rgba(33, 150, 243, 0.06)
-  );
+  background: linear-gradient(135deg,
+      rgba(26, 35, 126, 0.04),
+      rgba(33, 150, 243, 0.06));
   padding: 50px;
   border-radius: 24px;
   border: 3px solid #e3f2fd;
@@ -1764,6 +1736,7 @@ a {
 }
 
 @keyframes pulse-glow {
+
   0%,
   100% {
     transform: scale(1);

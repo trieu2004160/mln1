@@ -4,22 +4,18 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import lessons from "@/data/lessons.json";
 
-const roadmap = [
-  "Khái niệm Giai cấp",
-  "Nguồn gốc giai cấp",
-  "Đấu tranh giai cấp",
-  "Đấu tranh vô sản & thời kỳ quá độ",
-];
-
 const bannerImages = [
-  "/1.jpg",
-  "/2.jpg",
-  "/3.jpeg",
-  "/giai%20c%E1%BA%A5p%2C%20ngu%E1%BB%93n%20g%E1%BB%91c.jpg",
+  "/hinh-anh-5375.webp",
+  "/article.jfif",
+  "/hinh-thai-kinh-te-xa-hoi-cong-san-chu-nghia_2804134813.jpg",
+  "/Dac-diem-cua-xa-hoi-nguyen-thuy.webp",
 ];
 
 export default function Home() {
-  const featuredLessons = lessons.slice(0, 4);
+  const featuredLessons = lessons;
+  const overviewLesson = lessons.find((l) => l.id === "htktxh-overview");
+  const overviewSection = overviewLesson?.sections[0];
+
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   useEffect(() => {
@@ -45,30 +41,52 @@ export default function Home() {
           ))}
         </div>
         <div className="hero-inner">
-          <h1>GIAI CẤP VÀ ĐẤU TRANH GIAI CẤP</h1>
+          <h1>HÌNH THÁI KINH TẾ – XÃ HỘI</h1>
           <p>
-            Giai cấp và đấu tranh giai cấp là quá trình xã hội bị phân hoá thành
-            các nhóm có lợi ích đối lập, từ đó nảy sinh xung đột nhằm giành
-            quyền lợi và ảnh hưởng trong xã hội.
+            Hình thái kinh tế – xã hội là một chỉnh thể xã hội cụ thể trong lịch
+            sử, bao gồm Lực lượng sản xuất, Quan hệ sản xuất và Kiến trúc thượng
+            tầng, vận động theo các quy luật khách quan.
           </p>
           <div className="hero-actions">
-            <Link href="/lesson/giai-cap" className="btn btn-hero">
+            <Link
+              href="/lesson/hinh-thai-kinh-te-xa-hoi"
+              className="btn btn-hero"
+            >
               Bắt đầu học →
             </Link>
           </div>
         </div>
       </section>
 
+      {overviewSection && (
+        <section className="section fade-in fade-in-delay">
+          <div className="container">
+            <div className="highlight-card">
+              <h2 className="section-title" style={{ fontSize: "28px" }}>
+                {overviewSection.heading}
+              </h2>
+              <div style={{ whiteSpace: "pre-line" }}>
+                {overviewSection.body}
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
       <section className="section fade-in fade-in-delay">
         <div className="container">
           <div className="section-header">
             <div>
-              <h2 className="section-title">📚 Lộ trình học tập</h2>
+              <h2 className="section-title">📚 Lộ trình bài học</h2>
               <p className="section-subtitle">
-                4 chặng chính giúp nắm chắc Giai cấp & Đấu tranh giai cấp.
+                Các nội dung chính để nắm vững học thuyết Hình thái kinh tế – xã
+                hội.
               </p>
             </div>
-            <Link href="/lesson/giai-cap" className="btn btn-secondary btn-sm">
+            <Link
+              href="/lesson/hinh-thai-kinh-te-xa-hoi"
+              className="btn btn-secondary btn-sm"
+            >
               Vào bài học →
             </Link>
           </div>
@@ -81,11 +99,9 @@ export default function Home() {
               >
                 <div className="roadmap-card-header">
                   <div className="roadmap-number">{idx + 1}</div>
-                  <div className="pill">Bước {idx + 1}</div>
+                  <div className="pill">Bài {idx + 1}</div>
                 </div>
-                <h3 className="roadmap-card-title">
-                  {roadmap[idx] ?? lesson.title}
-                </h3>
+                <h3 className="roadmap-card-title">{lesson.title}</h3>
                 <p className="muted roadmap-card-desc">
                   Trạng thái:{" "}
                   <span className="badge badge-muted">{lesson.status}</span>
