@@ -217,7 +217,7 @@ function LessonContent({ lesson }: { lesson: Lesson }) {
                 >
                   <Image
                     src={(section as any).image}
-                    alt={section.heading}
+                    alt={section.heading || "Hình ảnh minh họa"}
                     fill
                     style={{ objectFit: "contain" }}
                   />
