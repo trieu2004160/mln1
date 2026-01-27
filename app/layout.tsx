@@ -17,13 +17,17 @@ const merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: "Triết Mác – Lênin | Giai cấp & Đấu tranh giai cấp",
+  title: "Triết Mác – Lênin | GHÌNH THÁI KINH TẾ – XÃ HỘI",
   description:
     "Nền tảng học Triết học Mác – Lênin: Giai cấp và Đấu tranh giai cấp. Học nhanh, hiểu sâu, ghi nhớ hiệu quả.",
   viewport: {
     width: "device-width",
     initialScale: 1,
     maximumScale: 5,
+  },
+  icons: {
+    icon: "/icon.png", // Hoặc thay bằng icon của bạn: "/my-icon.png"
+    apple: "/icon.png", // Icon cho iOS
   },
 };
 
