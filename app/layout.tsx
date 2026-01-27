@@ -17,7 +17,7 @@ const merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: "Triết Mác – Lênin | GHÌNH THÁI KINH TẾ – XÃ HỘI",
+  title: "Triết Mác – Lênin | CHÍNH THÁI KINH TẾ – XÃ HỘI",
   description:
     "Hình thái kinh tế – xã hội là một chỉnh thể xã hội cụ thể trong lịch sử, bao gồm Lực lượng sản xuất, Quan hệ sản xuất và Kiến trúc thượng tầng, vận động theo các quy luật khách quan.",
   viewport: {
