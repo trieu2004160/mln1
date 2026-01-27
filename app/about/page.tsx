@@ -34,9 +34,7 @@ export default function AboutPage() {
       <div className="card" style={{ marginTop: 16 }}>
         <h3>Phương pháp học</h3>
         <ul style={{ marginTop: 8, paddingLeft: 18 }}>
-          <li>
-            Đọc bài → làm quiz → ôn flashcard → xem sơ đồ tư duy → tổng kết.
-          </li>
+          <li>Đọc bài → làm quiz → ôn flashcard → tổng kết.</li>
           <li>
             Highlight nội dung quan trọng: định nghĩa, cấu trúc 3 tầng, quy luật
             vận động.
