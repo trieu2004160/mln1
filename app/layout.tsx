@@ -19,7 +19,7 @@ const merriweather = Merriweather({
 export const metadata: Metadata = {
   title: "Triết Mác – Lênin | GHÌNH THÁI KINH TẾ – XÃ HỘI",
   description:
-    "Nền tảng học Triết học Mác – Lênin: Giai cấp và Đấu tranh giai cấp. Học nhanh, hiểu sâu, ghi nhớ hiệu quả.",
+    "Hình thái kinh tế – xã hội là một chỉnh thể xã hội cụ thể trong lịch sử, bao gồm Lực lượng sản xuất, Quan hệ sản xuất và Kiến trúc thượng tầng, vận động theo các quy luật khách quan.",
   viewport: {
     width: "device-width",
     initialScale: 1,
