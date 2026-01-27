@@ -20,6 +20,11 @@ export const metadata: Metadata = {
   title: "Triết Mác – Lênin | Giai cấp & Đấu tranh giai cấp",
   description:
     "Nền tảng học Triết học Mác – Lênin: Giai cấp và Đấu tranh giai cấp. Học nhanh, hiểu sâu, ghi nhớ hiệu quả.",
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    maximumScale: 5,
+  },
 };
 
 const navLinks = [
